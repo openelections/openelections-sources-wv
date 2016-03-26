@@ -1,0 +1,1171 @@
+County Code, County Name, Precinct Code, Contest Code, Contest Name, Party, Candidate Code , Candidate Name, Candidate Votes, Contest Votes, Pecentage
+13, Greenbrier, , AA, U.S. President, D, 1003, Barack Hussein Obama, , , NaN
+13, Greenbrier, , AA, U.S. President, R, 1004, John Sidney McCain III, , , NaN
+13, Greenbrier, , BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, , , NaN
+13, Greenbrier, , BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, , , NaN
+13, Greenbrier, , CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, , , NaN
+13, Greenbrier, , DA, Governor, D, 1022, Joe Manchin III, , , NaN
+13, Greenbrier, , DA, Governor, R, 1024, Russell E. Weeks Jr, , , NaN
+13, Greenbrier, , EA, Secretary of State, D, 1027, Natalie Tennant, , , NaN
+13, Greenbrier, , EA, Secretary of State, R, 1028, Charles Theophilus Minimah, , , NaN
+13, Greenbrier, , FA, Auditor, D, 1029, Glen B. Gainer III, , , NaN
+13, Greenbrier, , GA, State Treasurer, D, 1030, John D. Perdue, , , NaN
+13, Greenbrier, , HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, , , NaN
+13, Greenbrier, , HA, Commissioner of Agriculture, R, 1034, James Michael Teets, , , NaN
+13, Greenbrier, , IA, Attorney General, D, 1035, Darrell V. McGraw Jr., , , NaN
+13, Greenbrier, , IA, Attorney General, R, 1037, Daniel W.Greear, , , NaN
+13, Greenbrier, , JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, , , NaN
+13, Greenbrier, , JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, , , NaN
+13, Greenbrier, , JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, , , NaN
+13, Greenbrier, , KA, State Senate, R, 1054, Donald Thomas Caruth, , , NaN
+13, Greenbrier, , KA, State Senate, D, 1067, James Wilbur McNeely, , , NaN
+13, Greenbrier, , LA, House of Delegates, D, 1146, Thomas W. Campbell, , , NaN
+13, Greenbrier, , LA, House of Delegates, D, 1303, Joan Connie Browning, , , NaN
+13, Greenbrier, , LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., , , NaN
+13, Greenbrier, , MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., , , NaN
+13, Greenbrier, , MA, Circuit Judge, D, 1344, James Jefferson Rowe, , , NaN
+13, Greenbrier, , MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., , , NaN
+13, Greenbrier, , MA, Circuit Judge, R, 1351, Barry Lee Bruce, , , NaN
+13, Greenbrier, , NA, Family Court Judge, D, 1357, David Martin Sanders, , , NaN
+13, Greenbrier, , CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, , , NaN
+13, Greenbrier, , DA, Governor, M, 1416, Jesse C. Johnson Jr., , , NaN
+13, Greenbrier, , AA, U.S. President, M, 1425, Cynthia Ann McKinney, , , NaN
+13, Greenbrier, , AA, U.S. President, U, 1427, Ralph Nader, , , NaN
+13, Greenbrier, , AA, U.S. President, C, 1428, Charles Obadiah Baldwin, , , NaN
+13, Greenbrier, , VO, Over Vote, , 901, Over Vote, , , NaN
+13, Greenbrier, , VU, Under Vote, , 902, Under Vote, , , NaN
+13, Greenbrier, , WI, Write-In, , 999, Write-In Candidate, , , NaN
+13, Greenbrier, , 90, Straight Ticket, D, DEM, Democratic Party, , , NaN
+13, Greenbrier, , 90, Straight Ticket, M, MTN, Mountain Party, , , NaN
+13, Greenbrier, , 90, Straight Ticket, R, REP, Republican Party, , , NaN
+13, Greenbrier, 1, AA, U.S. President, D, 1003, Barack Hussein Obama, 119, 334, 35.63%
+13, Greenbrier, 1, AA, U.S. President, R, 1004, John Sidney McCain III, 190, 334, 56.89%
+13, Greenbrier, 1, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 184, 334, 55.09%
+13, Greenbrier, 1, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 136, 334, 40.72%
+13, Greenbrier, 1, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 193, 334, 57.78%
+13, Greenbrier, 1, DA, Governor, D, 1022, Joe Manchin III, 223, 334, 66.77%
+13, Greenbrier, 1, DA, Governor, R, 1024, Russell E. Weeks Jr, 94, 334, 28.14%
+13, Greenbrier, 1, EA, Secretary of State, D, 1027, Natalie Tennant, 159, 334, 47.60%
+13, Greenbrier, 1, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 149, 334, 44.61%
+13, Greenbrier, 1, FA, Auditor, D, 1029, Glen B. Gainer III, 253, 334, 75.75%
+13, Greenbrier, 1, GA, State Treasurer, D, 1030, John D. Perdue, 248, 334, 74.25%
+13, Greenbrier, 1, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 191, 334, 57.19%
+13, Greenbrier, 1, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 121, 334, 36.23%
+13, Greenbrier, 1, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 172, 334, 51.50%
+13, Greenbrier, 1, IA, Attorney General, R, 1037, Daniel W.Greear, 142, 334, 42.51%
+13, Greenbrier, 1, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 156, 334, 46.71%
+13, Greenbrier, 1, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 164, 334, 49.10%
+13, Greenbrier, 1, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 137, 334, 41.02%
+13, Greenbrier, 1, KA, State Senate, R, 1054, Donald Thomas Caruth, 152, 334, 45.51%
+13, Greenbrier, 1, KA, State Senate, D, 1067, James Wilbur McNeely, 160, 334, 47.90%
+13, Greenbrier, 1, LA, House of Delegates, D, 1146, Thomas W. Campbell, 184, 334, 55.09%
+13, Greenbrier, 1, LA, House of Delegates, D, 1303, Joan Connie Browning, 108, 334, 32.34%
+13, Greenbrier, 1, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 196, 334, 58.68%
+13, Greenbrier, 1, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 153, 334, 45.81%
+13, Greenbrier, 1, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 164, 334, 49.10%
+13, Greenbrier, 1, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 155, 334, 46.41%
+13, Greenbrier, 1, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 146, 334, 43.71%
+13, Greenbrier, 1, NA, Family Court Judge, D, 1357, David Martin Sanders, 235, 334, 70.36%
+13, Greenbrier, 1, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 125, 334, 37.43%
+13, Greenbrier, 1, DA, Governor, M, 1416, Jesse C. Johnson Jr., 7, 334, 2.10%
+13, Greenbrier, 1, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 2, 334, 0.60%
+13, Greenbrier, 1, AA, U.S. President, U, 1427, Ralph Nader, 5, 334, 1.50%
+13, Greenbrier, 1, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 3, 334, 0.90%
+13, Greenbrier, 1, VO, Over Vote, , 901, Over Vote, 0, 334, 0.00%
+13, Greenbrier, 1, VU, Under Vote, , 902, Under Vote, 2071, 334, 620.06%
+13, Greenbrier, 1, WI, Write-In, , 999, Write-In Candidate, 5, 334, 1.50%
+13, Greenbrier, 1, 90, Straight Ticket, D, DEM, Democratic Party, 49, 334, 14.67%
+13, Greenbrier, 1, 90, Straight Ticket, M, MTN, Mountain Party, 1, 334, 0.30%
+13, Greenbrier, 1, 90, Straight Ticket, R, REP, Republican Party, 53, 334, 15.87%
+13, Greenbrier, 14, AA, U.S. President, D, 1003, Barack Hussein Obama, 173, 491, 35.23%
+13, Greenbrier, 14, AA, U.S. President, R, 1004, John Sidney McCain III, 298, 491, 60.69%
+13, Greenbrier, 14, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 275, 491, 56.01%
+13, Greenbrier, 14, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 199, 491, 40.53%
+13, Greenbrier, 14, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 309, 491, 62.93%
+13, Greenbrier, 14, DA, Governor, D, 1022, Joe Manchin III, 280, 491, 57.03%
+13, Greenbrier, 14, DA, Governor, R, 1024, Russell E. Weeks Jr, 150, 491, 30.55%
+13, Greenbrier, 14, EA, Secretary of State, D, 1027, Natalie Tennant, 251, 491, 51.12%
+13, Greenbrier, 14, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 198, 491, 40.33%
+13, Greenbrier, 14, FA, Auditor, D, 1029, Glen B. Gainer III, 366, 491, 74.54%
+13, Greenbrier, 14, GA, State Treasurer, D, 1030, John D. Perdue, 363, 491, 73.93%
+13, Greenbrier, 14, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 260, 491, 52.95%
+13, Greenbrier, 14, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 200, 491, 40.73%
+13, Greenbrier, 14, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 255, 491, 51.93%
+13, Greenbrier, 14, IA, Attorney General, R, 1037, Daniel W.Greear, 206, 491, 41.96%
+13, Greenbrier, 14, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 244, 491, 49.69%
+13, Greenbrier, 14, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 223, 491, 45.42%
+13, Greenbrier, 14, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 210, 491, 42.77%
+13, Greenbrier, 14, KA, State Senate, R, 1054, Donald Thomas Caruth, 203, 491, 41.34%
+13, Greenbrier, 14, KA, State Senate, D, 1067, James Wilbur McNeely, 256, 491, 52.14%
+13, Greenbrier, 14, LA, House of Delegates, D, 1146, Thomas W. Campbell, 262, 491, 53.36%
+13, Greenbrier, 14, LA, House of Delegates, D, 1303, Joan Connie Browning, 212, 491, 43.18%
+13, Greenbrier, 14, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 264, 491, 53.77%
+13, Greenbrier, 14, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 242, 491, 49.29%
+13, Greenbrier, 14, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 274, 491, 55.80%
+13, Greenbrier, 14, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 218, 491, 44.40%
+13, Greenbrier, 14, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 194, 491, 39.51%
+13, Greenbrier, 14, NA, Family Court Judge, D, 1357, David Martin Sanders, 338, 491, 68.84%
+13, Greenbrier, 14, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 159, 491, 32.38%
+13, Greenbrier, 14, DA, Governor, M, 1416, Jesse C. Johnson Jr., 45, 491, 9.16%
+13, Greenbrier, 14, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 4, 491, 0.81%
+13, Greenbrier, 14, AA, U.S. President, U, 1427, Ralph Nader, 2, 491, 0.41%
+13, Greenbrier, 14, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 3, 491, 0.61%
+13, Greenbrier, 14, VO, Over Vote, , 901, Over Vote, 0, 491, 0.00%
+13, Greenbrier, 14, VU, Under Vote, , 902, Under Vote, 3030, 491, 617.11%
+13, Greenbrier, 14, WI, Write-In, , 999, Write-In Candidate, 4, 491, 0.81%
+13, Greenbrier, 14, 90, Straight Ticket, D, DEM, Democratic Party, 61, 491, 12.42%
+13, Greenbrier, 14, 90, Straight Ticket, M, MTN, Mountain Party, 1, 491, 0.20%
+13, Greenbrier, 14, 90, Straight Ticket, R, REP, Republican Party, 57, 491, 11.61%
+13, Greenbrier, 21, AA, U.S. President, D, 1003, Barack Hussein Obama, 174, 360, 48.33%
+13, Greenbrier, 21, AA, U.S. President, R, 1004, John Sidney McCain III, 160, 360, 44.44%
+13, Greenbrier, 21, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 244, 360, 67.78%
+13, Greenbrier, 21, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 91, 360, 25.28%
+13, Greenbrier, 21, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 260, 360, 72.22%
+13, Greenbrier, 21, DA, Governor, D, 1022, Joe Manchin III, 267, 360, 74.17%
+13, Greenbrier, 21, DA, Governor, R, 1024, Russell E. Weeks Jr, 64, 360, 17.78%
+13, Greenbrier, 21, EA, Secretary of State, D, 1027, Natalie Tennant, 213, 360, 59.17%
+13, Greenbrier, 21, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 103, 360, 28.61%
+13, Greenbrier, 21, FA, Auditor, D, 1029, Glen B. Gainer III, 280, 360, 77.78%
+13, Greenbrier, 21, GA, State Treasurer, D, 1030, John D. Perdue, 278, 360, 77.22%
+13, Greenbrier, 21, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 204, 360, 56.67%
+13, Greenbrier, 21, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 123, 360, 34.17%
+13, Greenbrier, 21, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 207, 360, 57.50%
+13, Greenbrier, 21, IA, Attorney General, R, 1037, Daniel W.Greear, 127, 360, 35.28%
+13, Greenbrier, 21, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 169, 360, 46.94%
+13, Greenbrier, 21, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 139, 360, 38.61%
+13, Greenbrier, 21, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 194, 360, 53.89%
+13, Greenbrier, 21, KA, State Senate, R, 1054, Donald Thomas Caruth, 130, 360, 36.11%
+13, Greenbrier, 21, KA, State Senate, D, 1067, James Wilbur McNeely, 190, 360, 52.78%
+13, Greenbrier, 21, LA, House of Delegates, D, 1146, Thomas W. Campbell, 215, 360, 59.72%
+13, Greenbrier, 21, LA, House of Delegates, D, 1303, Joan Connie Browning, 141, 360, 39.17%
+13, Greenbrier, 21, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 213, 360, 59.17%
+13, Greenbrier, 21, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 190, 360, 52.78%
+13, Greenbrier, 21, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 206, 360, 57.22%
+13, Greenbrier, 21, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 144, 360, 40.00%
+13, Greenbrier, 21, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 132, 360, 36.67%
+13, Greenbrier, 21, NA, Family Court Judge, D, 1357, David Martin Sanders, 260, 360, 72.22%
+13, Greenbrier, 21, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 68, 360, 18.89%
+13, Greenbrier, 21, DA, Governor, M, 1416, Jesse C. Johnson Jr., 14, 360, 3.89%
+13, Greenbrier, 21, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 3, 360, 0.83%
+13, Greenbrier, 21, AA, U.S. President, U, 1427, Ralph Nader, 5, 360, 1.39%
+13, Greenbrier, 21, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 1, 360, 0.28%
+13, Greenbrier, 21, VO, Over Vote, , 901, Over Vote, 0, 360, 0.00%
+13, Greenbrier, 21, VU, Under Vote, , 902, Under Vote, 2151, 360, 597.50%
+13, Greenbrier, 21, WI, Write-In, , 999, Write-In Candidate, 11, 360, 3.06%
+13, Greenbrier, 21, 90, Straight Ticket, D, DEM, Democratic Party, 52, 360, 14.44%
+13, Greenbrier, 21, 90, Straight Ticket, M, MTN, Mountain Party, 1, 360, 0.28%
+13, Greenbrier, 21, 90, Straight Ticket, R, REP, Republican Party, 23, 360, 6.39%
+13, Greenbrier, 23, AA, U.S. President, D, 1003, Barack Hussein Obama, 358, 898, 39.87%
+13, Greenbrier, 23, AA, U.S. President, R, 1004, John Sidney McCain III, 507, 898, 56.46%
+13, Greenbrier, 23, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 549, 898, 61.14%
+13, Greenbrier, 23, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 314, 898, 34.97%
+13, Greenbrier, 23, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 590, 898, 65.70%
+13, Greenbrier, 23, DA, Governor, D, 1022, Joe Manchin III, 607, 898, 67.59%
+13, Greenbrier, 23, DA, Governor, R, 1024, Russell E. Weeks Jr, 225, 898, 25.06%
+13, Greenbrier, 23, EA, Secretary of State, D, 1027, Natalie Tennant, 484, 898, 53.90%
+13, Greenbrier, 23, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 320, 898, 35.63%
+13, Greenbrier, 23, FA, Auditor, D, 1029, Glen B. Gainer III, 680, 898, 75.72%
+13, Greenbrier, 23, GA, State Treasurer, D, 1030, John D. Perdue, 673, 898, 74.94%
+13, Greenbrier, 23, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 471, 898, 52.45%
+13, Greenbrier, 23, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 371, 898, 41.31%
+13, Greenbrier, 23, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 454, 898, 50.56%
+13, Greenbrier, 23, IA, Attorney General, R, 1037, Daniel W.Greear, 385, 898, 42.87%
+13, Greenbrier, 23, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 417, 898, 46.44%
+13, Greenbrier, 23, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 432, 898, 48.11%
+13, Greenbrier, 23, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 435, 898, 48.44%
+13, Greenbrier, 23, KA, State Senate, R, 1054, Donald Thomas Caruth, 383, 898, 42.65%
+13, Greenbrier, 23, KA, State Senate, D, 1067, James Wilbur McNeely, 438, 898, 48.78%
+13, Greenbrier, 23, LA, House of Delegates, D, 1146, Thomas W. Campbell, 542, 898, 60.36%
+13, Greenbrier, 23, LA, House of Delegates, D, 1303, Joan Connie Browning, 321, 898, 35.75%
+13, Greenbrier, 23, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 527, 898, 58.69%
+13, Greenbrier, 23, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 439, 898, 48.89%
+13, Greenbrier, 23, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 500, 898, 55.68%
+13, Greenbrier, 23, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 395, 898, 43.99%
+13, Greenbrier, 23, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 351, 898, 39.09%
+13, Greenbrier, 23, NA, Family Court Judge, D, 1357, David Martin Sanders, 654, 898, 72.83%
+13, Greenbrier, 23, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 262, 898, 29.18%
+13, Greenbrier, 23, DA, Governor, M, 1416, Jesse C. Johnson Jr., 30, 898, 3.34%
+13, Greenbrier, 23, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 3, 898, 0.33%
+13, Greenbrier, 23, AA, U.S. President, U, 1427, Ralph Nader, 5, 898, 0.56%
+13, Greenbrier, 23, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 1, 898, 0.11%
+13, Greenbrier, 23, VO, Over Vote, , 901, Over Vote, 0, 898, 0.00%
+13, Greenbrier, 23, VU, Under Vote, , 902, Under Vote, 5214, 898, 580.62%
+13, Greenbrier, 23, WI, Write-In, , 999, Write-In Candidate, 16, 898, 1.78%
+13, Greenbrier, 23, 90, Straight Ticket, D, DEM, Democratic Party, 93, 898, 10.36%
+13, Greenbrier, 23, 90, Straight Ticket, M, MTN, Mountain Party, 3, 898, 0.33%
+13, Greenbrier, 23, 90, Straight Ticket, R, REP, Republican Party, 82, 898, 9.13%
+13, Greenbrier, 24, AA, U.S. President, D, 1003, Barack Hussein Obama, 269, 601, 44.76%
+13, Greenbrier, 24, AA, U.S. President, R, 1004, John Sidney McCain III, 300, 601, 49.92%
+13, Greenbrier, 24, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 400, 601, 66.56%
+13, Greenbrier, 24, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 179, 601, 29.78%
+13, Greenbrier, 24, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 408, 601, 67.89%
+13, Greenbrier, 24, DA, Governor, D, 1022, Joe Manchin III, 417, 601, 69.38%
+13, Greenbrier, 24, DA, Governor, R, 1024, Russell E. Weeks Jr, 146, 601, 24.29%
+13, Greenbrier, 24, EA, Secretary of State, D, 1027, Natalie Tennant, 345, 601, 57.40%
+13, Greenbrier, 24, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 190, 601, 31.61%
+13, Greenbrier, 24, FA, Auditor, D, 1029, Glen B. Gainer III, 473, 601, 78.70%
+13, Greenbrier, 24, GA, State Treasurer, D, 1030, John D. Perdue, 467, 601, 77.70%
+13, Greenbrier, 24, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 341, 601, 56.74%
+13, Greenbrier, 24, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 221, 601, 36.77%
+13, Greenbrier, 24, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 327, 601, 54.41%
+13, Greenbrier, 24, IA, Attorney General, R, 1037, Daniel W.Greear, 232, 601, 38.60%
+13, Greenbrier, 24, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 300, 601, 49.92%
+13, Greenbrier, 24, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 253, 601, 42.10%
+13, Greenbrier, 24, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 314, 601, 52.25%
+13, Greenbrier, 24, KA, State Senate, R, 1054, Donald Thomas Caruth, 247, 601, 41.10%
+13, Greenbrier, 24, KA, State Senate, D, 1067, James Wilbur McNeely, 300, 601, 49.92%
+13, Greenbrier, 24, LA, House of Delegates, D, 1146, Thomas W. Campbell, 358, 601, 59.57%
+13, Greenbrier, 24, LA, House of Delegates, D, 1303, Joan Connie Browning, 220, 601, 36.61%
+13, Greenbrier, 24, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 380, 601, 63.23%
+13, Greenbrier, 24, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 284, 601, 47.25%
+13, Greenbrier, 24, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 332, 601, 55.24%
+13, Greenbrier, 24, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 273, 601, 45.42%
+13, Greenbrier, 24, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 247, 601, 41.10%
+13, Greenbrier, 24, NA, Family Court Judge, D, 1357, David Martin Sanders, 440, 601, 73.21%
+13, Greenbrier, 24, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 162, 601, 26.96%
+13, Greenbrier, 24, DA, Governor, M, 1416, Jesse C. Johnson Jr., 18, 601, 3.00%
+13, Greenbrier, 24, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 3, 601, 0.50%
+13, Greenbrier, 24, AA, U.S. President, U, 1427, Ralph Nader, 4, 601, 0.67%
+13, Greenbrier, 24, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 3, 601, 0.50%
+13, Greenbrier, 24, VO, Over Vote, , 901, Over Vote, 0, 601, 0.00%
+13, Greenbrier, 24, VU, Under Vote, , 902, Under Vote, 3310, 601, 550.75%
+13, Greenbrier, 24, WI, Write-In, , 999, Write-In Candidate, 7, 601, 1.16%
+13, Greenbrier, 24, 90, Straight Ticket, D, DEM, Democratic Party, 81, 601, 13.48%
+13, Greenbrier, 24, 90, Straight Ticket, M, MTN, Mountain Party, 3, 601, 0.50%
+13, Greenbrier, 24, 90, Straight Ticket, R, REP, Republican Party, 41, 601, 6.82%
+13, Greenbrier, 29, AA, U.S. President, D, 1003, Barack Hussein Obama, 193, 425, 45.41%
+13, Greenbrier, 29, AA, U.S. President, R, 1004, John Sidney McCain III, 208, 425, 48.94%
+13, Greenbrier, 29, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 257, 425, 60.47%
+13, Greenbrier, 29, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 151, 425, 35.53%
+13, Greenbrier, 29, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 265, 425, 62.35%
+13, Greenbrier, 29, DA, Governor, D, 1022, Joe Manchin III, 268, 425, 63.06%
+13, Greenbrier, 29, DA, Governor, R, 1024, Russell E. Weeks Jr, 115, 425, 27.06%
+13, Greenbrier, 29, EA, Secretary of State, D, 1027, Natalie Tennant, 247, 425, 58.12%
+13, Greenbrier, 29, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 134, 425, 31.53%
+13, Greenbrier, 29, FA, Auditor, D, 1029, Glen B. Gainer III, 305, 425, 71.76%
+13, Greenbrier, 29, GA, State Treasurer, D, 1030, John D. Perdue, 306, 425, 72.00%
+13, Greenbrier, 29, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 196, 425, 46.12%
+13, Greenbrier, 29, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 189, 425, 44.47%
+13, Greenbrier, 29, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 222, 425, 52.24%
+13, Greenbrier, 29, IA, Attorney General, R, 1037, Daniel W.Greear, 180, 425, 42.35%
+13, Greenbrier, 29, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 230, 425, 54.12%
+13, Greenbrier, 29, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 169, 425, 39.76%
+13, Greenbrier, 29, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 187, 425, 44.00%
+13, Greenbrier, 29, KA, State Senate, R, 1054, Donald Thomas Caruth, 149, 425, 35.06%
+13, Greenbrier, 29, KA, State Senate, D, 1067, James Wilbur McNeely, 238, 425, 56.00%
+13, Greenbrier, 29, LA, House of Delegates, D, 1146, Thomas W. Campbell, 265, 425, 62.35%
+13, Greenbrier, 29, LA, House of Delegates, D, 1303, Joan Connie Browning, 161, 425, 37.88%
+13, Greenbrier, 29, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 220, 425, 51.76%
+13, Greenbrier, 29, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 215, 425, 50.59%
+13, Greenbrier, 29, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 239, 425, 56.24%
+13, Greenbrier, 29, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 189, 425, 44.47%
+13, Greenbrier, 29, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 172, 425, 40.47%
+13, Greenbrier, 29, NA, Family Court Judge, D, 1357, David Martin Sanders, 292, 425, 68.71%
+13, Greenbrier, 29, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 137, 425, 32.24%
+13, Greenbrier, 29, DA, Governor, M, 1416, Jesse C. Johnson Jr., 26, 425, 6.12%
+13, Greenbrier, 29, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 2, 425, 0.47%
+13, Greenbrier, 29, AA, U.S. President, U, 1427, Ralph Nader, 4, 425, 0.94%
+13, Greenbrier, 29, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 4, 425, 0.94%
+13, Greenbrier, 29, VO, Over Vote, , 901, Over Vote, 0, 425, 0.00%
+13, Greenbrier, 29, VU, Under Vote, , 902, Under Vote, 2631, 425, 619.06%
+13, Greenbrier, 29, WI, Write-In, , 999, Write-In Candidate, 2, 425, 0.47%
+13, Greenbrier, 29, 90, Straight Ticket, D, DEM, Democratic Party, 41, 425, 9.65%
+13, Greenbrier, 29, 90, Straight Ticket, M, MTN, Mountain Party, 2, 425, 0.47%
+13, Greenbrier, 29, 90, Straight Ticket, R, REP, Republican Party, 26, 425, 6.12%
+13, Greenbrier, 31, AA, U.S. President, D, 1003, Barack Hussein Obama, 168, 387, 43.41%
+13, Greenbrier, 31, AA, U.S. President, R, 1004, John Sidney McCain III, 196, 387, 50.65%
+13, Greenbrier, 31, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 252, 387, 65.12%
+13, Greenbrier, 31, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 121, 387, 31.27%
+13, Greenbrier, 31, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 247, 387, 63.82%
+13, Greenbrier, 31, DA, Governor, D, 1022, Joe Manchin III, 254, 387, 65.63%
+13, Greenbrier, 31, DA, Governor, R, 1024, Russell E. Weeks Jr, 94, 387, 24.29%
+13, Greenbrier, 31, EA, Secretary of State, D, 1027, Natalie Tennant, 213, 387, 55.04%
+13, Greenbrier, 31, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 132, 387, 34.11%
+13, Greenbrier, 31, FA, Auditor, D, 1029, Glen B. Gainer III, 292, 387, 75.45%
+13, Greenbrier, 31, GA, State Treasurer, D, 1030, John D. Perdue, 291, 387, 75.19%
+13, Greenbrier, 31, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 221, 387, 57.11%
+13, Greenbrier, 31, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 138, 387, 35.66%
+13, Greenbrier, 31, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 211, 387, 54.52%
+13, Greenbrier, 31, IA, Attorney General, R, 1037, Daniel W.Greear, 145, 387, 37.47%
+13, Greenbrier, 31, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 209, 387, 54.01%
+13, Greenbrier, 31, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 164, 387, 42.38%
+13, Greenbrier, 31, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 177, 387, 45.74%
+13, Greenbrier, 31, KA, State Senate, R, 1054, Donald Thomas Caruth, 146, 387, 37.73%
+13, Greenbrier, 31, KA, State Senate, D, 1067, James Wilbur McNeely, 200, 387, 51.68%
+13, Greenbrier, 31, LA, House of Delegates, D, 1146, Thomas W. Campbell, 250, 387, 64.60%
+13, Greenbrier, 31, LA, House of Delegates, D, 1303, Joan Connie Browning, 133, 387, 34.37%
+13, Greenbrier, 31, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 223, 387, 57.62%
+13, Greenbrier, 31, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 197, 387, 50.90%
+13, Greenbrier, 31, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 234, 387, 60.47%
+13, Greenbrier, 31, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 165, 387, 42.64%
+13, Greenbrier, 31, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 136, 387, 35.14%
+13, Greenbrier, 31, NA, Family Court Judge, D, 1357, David Martin Sanders, 272, 387, 70.28%
+13, Greenbrier, 31, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 117, 387, 30.23%
+13, Greenbrier, 31, DA, Governor, M, 1416, Jesse C. Johnson Jr., 20, 387, 5.17%
+13, Greenbrier, 31, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 1, 387, 0.26%
+13, Greenbrier, 31, AA, U.S. President, U, 1427, Ralph Nader, 5, 387, 1.29%
+13, Greenbrier, 31, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 4, 387, 1.03%
+13, Greenbrier, 31, VO, Over Vote, , 901, Over Vote, 0, 387, 0.00%
+13, Greenbrier, 31, VU, Under Vote, , 902, Under Vote, 2269, 387, 586.30%
+13, Greenbrier, 31, WI, Write-In, , 999, Write-In Candidate, 13, 387, 3.36%
+13, Greenbrier, 31, 90, Straight Ticket, D, DEM, Democratic Party, 53, 387, 13.70%
+13, Greenbrier, 31, 90, Straight Ticket, M, MTN, Mountain Party, 6, 387, 1.55%
+13, Greenbrier, 31, 90, Straight Ticket, R, REP, Republican Party, 27, 387, 6.98%
+13, Greenbrier, 34, AA, U.S. President, D, 1003, Barack Hussein Obama, 162, 480, 33.75%
+13, Greenbrier, 34, AA, U.S. President, R, 1004, John Sidney McCain III, 293, 480, 61.04%
+13, Greenbrier, 34, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 240, 480, 50.00%
+13, Greenbrier, 34, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 210, 480, 43.75%
+13, Greenbrier, 34, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 270, 480, 56.25%
+13, Greenbrier, 34, DA, Governor, D, 1022, Joe Manchin III, 291, 480, 60.63%
+13, Greenbrier, 34, DA, Governor, R, 1024, Russell E. Weeks Jr, 142, 480, 29.58%
+13, Greenbrier, 34, EA, Secretary of State, D, 1027, Natalie Tennant, 203, 480, 42.29%
+13, Greenbrier, 34, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 208, 480, 43.33%
+13, Greenbrier, 34, FA, Auditor, D, 1029, Glen B. Gainer III, 315, 480, 65.63%
+13, Greenbrier, 34, GA, State Treasurer, D, 1030, John D. Perdue, 318, 480, 66.25%
+13, Greenbrier, 34, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 206, 480, 42.92%
+13, Greenbrier, 34, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 243, 480, 50.63%
+13, Greenbrier, 34, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 219, 480, 45.63%
+13, Greenbrier, 34, IA, Attorney General, R, 1037, Daniel W.Greear, 220, 480, 45.83%
+13, Greenbrier, 34, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 184, 480, 38.33%
+13, Greenbrier, 34, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 254, 480, 52.92%
+13, Greenbrier, 34, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 179, 480, 37.29%
+13, Greenbrier, 34, KA, State Senate, R, 1054, Donald Thomas Caruth, 240, 480, 50.00%
+13, Greenbrier, 34, KA, State Senate, D, 1067, James Wilbur McNeely, 194, 480, 40.42%
+13, Greenbrier, 34, LA, House of Delegates, D, 1146, Thomas W. Campbell, 222, 480, 46.25%
+13, Greenbrier, 34, LA, House of Delegates, D, 1303, Joan Connie Browning, 138, 480, 28.75%
+13, Greenbrier, 34, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 330, 480, 68.75%
+13, Greenbrier, 34, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 221, 480, 46.04%
+13, Greenbrier, 34, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 238, 480, 49.58%
+13, Greenbrier, 34, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 222, 480, 46.25%
+13, Greenbrier, 34, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 216, 480, 45.00%
+13, Greenbrier, 34, NA, Family Court Judge, D, 1357, David Martin Sanders, 309, 480, 64.38%
+13, Greenbrier, 34, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 170, 480, 35.42%
+13, Greenbrier, 34, DA, Governor, M, 1416, Jesse C. Johnson Jr., 20, 480, 4.17%
+13, Greenbrier, 34, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 3, 480, 0.63%
+13, Greenbrier, 34, AA, U.S. President, U, 1427, Ralph Nader, 2, 480, 0.42%
+13, Greenbrier, 34, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 1, 480, 0.21%
+13, Greenbrier, 34, VO, Over Vote, , 901, Over Vote, 0, 480, 0.00%
+13, Greenbrier, 34, VU, Under Vote, , 902, Under Vote, 3440, 480, 716.67%
+13, Greenbrier, 34, WI, Write-In, , 999, Write-In Candidate, 4, 480, 0.83%
+13, Greenbrier, 34, 90, Straight Ticket, D, DEM, Democratic Party, 59, 480, 12.29%
+13, Greenbrier, 34, 90, Straight Ticket, M, MTN, Mountain Party, 5, 480, 1.04%
+13, Greenbrier, 34, 90, Straight Ticket, R, REP, Republican Party, 57, 480, 11.88%
+13, Greenbrier, 41, AA, U.S. President, D, 1003, Barack Hussein Obama, 422, 707, 59.69%
+13, Greenbrier, 41, AA, U.S. President, R, 1004, John Sidney McCain III, 256, 707, 36.21%
+13, Greenbrier, 41, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 478, 707, 67.61%
+13, Greenbrier, 41, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 188, 707, 26.59%
+13, Greenbrier, 41, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 494, 707, 69.87%
+13, Greenbrier, 41, DA, Governor, D, 1022, Joe Manchin III, 489, 707, 69.17%
+13, Greenbrier, 41, DA, Governor, R, 1024, Russell E. Weeks Jr, 146, 707, 20.65%
+13, Greenbrier, 41, EA, Secretary of State, D, 1027, Natalie Tennant, 459, 707, 64.92%
+13, Greenbrier, 41, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 181, 707, 25.60%
+13, Greenbrier, 41, FA, Auditor, D, 1029, Glen B. Gainer III, 553, 707, 78.22%
+13, Greenbrier, 41, GA, State Treasurer, D, 1030, John D. Perdue, 552, 707, 78.08%
+13, Greenbrier, 41, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 399, 707, 56.44%
+13, Greenbrier, 41, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 249, 707, 35.22%
+13, Greenbrier, 41, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 389, 707, 55.02%
+13, Greenbrier, 41, IA, Attorney General, R, 1037, Daniel W.Greear, 261, 707, 36.92%
+13, Greenbrier, 41, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 397, 707, 56.15%
+13, Greenbrier, 41, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 261, 707, 36.92%
+13, Greenbrier, 41, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 374, 707, 52.90%
+13, Greenbrier, 41, KA, State Senate, R, 1054, Donald Thomas Caruth, 263, 707, 37.20%
+13, Greenbrier, 41, KA, State Senate, D, 1067, James Wilbur McNeely, 383, 707, 54.17%
+13, Greenbrier, 41, LA, House of Delegates, D, 1146, Thomas W. Campbell, 493, 707, 69.73%
+13, Greenbrier, 41, LA, House of Delegates, D, 1303, Joan Connie Browning, 324, 707, 45.83%
+13, Greenbrier, 41, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 337, 707, 47.67%
+13, Greenbrier, 41, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 413, 707, 58.42%
+13, Greenbrier, 41, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 524, 707, 74.12%
+13, Greenbrier, 41, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 253, 707, 35.79%
+13, Greenbrier, 41, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 160, 707, 22.63%
+13, Greenbrier, 41, NA, Family Court Judge, D, 1357, David Martin Sanders, 540, 707, 76.38%
+13, Greenbrier, 41, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 163, 707, 23.06%
+13, Greenbrier, 41, DA, Governor, M, 1416, Jesse C. Johnson Jr., 31, 707, 4.38%
+13, Greenbrier, 41, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 2, 707, 0.28%
+13, Greenbrier, 41, AA, U.S. President, U, 1427, Ralph Nader, 3, 707, 0.42%
+13, Greenbrier, 41, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 0, 707, 0.00%
+13, Greenbrier, 41, VO, Over Vote, , 901, Over Vote, 0, 707, 0.00%
+13, Greenbrier, 41, VU, Under Vote, , 902, Under Vote, 3914, 707, 553.61%
+13, Greenbrier, 41, WI, Write-In, , 999, Write-In Candidate, 10, 707, 1.41%
+13, Greenbrier, 41, 90, Straight Ticket, D, DEM, Democratic Party, 97, 707, 13.72%
+13, Greenbrier, 41, 90, Straight Ticket, M, MTN, Mountain Party, 0, 707, 0.00%
+13, Greenbrier, 41, 90, Straight Ticket, R, REP, Republican Party, 43, 707, 6.08%
+13, Greenbrier, 42, AA, U.S. President, D, 1003, Barack Hussein Obama, 120, 330, 36.36%
+13, Greenbrier, 42, AA, U.S. President, R, 1004, John Sidney McCain III, 187, 330, 56.67%
+13, Greenbrier, 42, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 186, 330, 56.36%
+13, Greenbrier, 42, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 132, 330, 40.00%
+13, Greenbrier, 42, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 181, 330, 54.85%
+13, Greenbrier, 42, DA, Governor, D, 1022, Joe Manchin III, 209, 330, 63.33%
+13, Greenbrier, 42, DA, Governor, R, 1024, Russell E. Weeks Jr, 93, 330, 28.18%
+13, Greenbrier, 42, EA, Secretary of State, D, 1027, Natalie Tennant, 178, 330, 53.94%
+13, Greenbrier, 42, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 117, 330, 35.45%
+13, Greenbrier, 42, FA, Auditor, D, 1029, Glen B. Gainer III, 234, 330, 70.91%
+13, Greenbrier, 42, GA, State Treasurer, D, 1030, John D. Perdue, 234, 330, 70.91%
+13, Greenbrier, 42, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 146, 330, 44.24%
+13, Greenbrier, 42, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 172, 330, 52.12%
+13, Greenbrier, 42, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 135, 330, 40.91%
+13, Greenbrier, 42, IA, Attorney General, R, 1037, Daniel W.Greear, 175, 330, 53.03%
+13, Greenbrier, 42, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 136, 330, 41.21%
+13, Greenbrier, 42, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 174, 330, 52.73%
+13, Greenbrier, 42, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 158, 330, 47.88%
+13, Greenbrier, 42, KA, State Senate, R, 1054, Donald Thomas Caruth, 170, 330, 51.52%
+13, Greenbrier, 42, KA, State Senate, D, 1067, James Wilbur McNeely, 130, 330, 39.39%
+13, Greenbrier, 42, LA, House of Delegates, D, 1146, Thomas W. Campbell, 203, 330, 61.52%
+13, Greenbrier, 42, LA, House of Delegates, D, 1303, Joan Connie Browning, 105, 330, 31.82%
+13, Greenbrier, 42, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 204, 330, 61.82%
+13, Greenbrier, 42, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 125, 330, 37.88%
+13, Greenbrier, 42, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 213, 330, 64.55%
+13, Greenbrier, 42, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 184, 330, 55.76%
+13, Greenbrier, 42, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 106, 330, 32.12%
+13, Greenbrier, 42, NA, Family Court Judge, D, 1357, David Martin Sanders, 215, 330, 65.15%
+13, Greenbrier, 42, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 131, 330, 39.70%
+13, Greenbrier, 42, DA, Governor, M, 1416, Jesse C. Johnson Jr., 21, 330, 6.36%
+13, Greenbrier, 42, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 2, 330, 0.61%
+13, Greenbrier, 42, AA, U.S. President, U, 1427, Ralph Nader, 2, 330, 0.61%
+13, Greenbrier, 42, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 5, 330, 1.52%
+13, Greenbrier, 42, VO, Over Vote, , 901, Over Vote, 0, 330, 0.00%
+13, Greenbrier, 42, VU, Under Vote, , 902, Under Vote, 1992, 330, 603.64%
+13, Greenbrier, 42, WI, Write-In, , 999, Write-In Candidate, 6, 330, 1.82%
+13, Greenbrier, 42, 90, Straight Ticket, D, DEM, Democratic Party, 21, 330, 6.36%
+13, Greenbrier, 42, 90, Straight Ticket, M, MTN, Mountain Party, 1, 330, 0.30%
+13, Greenbrier, 42, 90, Straight Ticket, R, REP, Republican Party, 29, 330, 8.79%
+13, Greenbrier, 43, AA, U.S. President, D, 1003, Barack Hussein Obama, 381, 997, 38.21%
+13, Greenbrier, 43, AA, U.S. President, R, 1004, John Sidney McCain III, 573, 997, 57.47%
+13, Greenbrier, 43, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 572, 997, 57.37%
+13, Greenbrier, 43, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 390, 997, 39.12%
+13, Greenbrier, 43, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 633, 997, 63.49%
+13, Greenbrier, 43, DA, Governor, D, 1022, Joe Manchin III, 663, 997, 66.50%
+13, Greenbrier, 43, DA, Governor, R, 1024, Russell E. Weeks Jr, 268, 997, 26.88%
+13, Greenbrier, 43, EA, Secretary of State, D, 1027, Natalie Tennant, 538, 997, 53.96%
+13, Greenbrier, 43, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 358, 997, 35.91%
+13, Greenbrier, 43, FA, Auditor, D, 1029, Glen B. Gainer III, 755, 997, 75.73%
+13, Greenbrier, 43, GA, State Treasurer, D, 1030, John D. Perdue, 759, 997, 76.13%
+13, Greenbrier, 43, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 486, 997, 48.75%
+13, Greenbrier, 43, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 461, 997, 46.24%
+13, Greenbrier, 43, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 463, 997, 46.44%
+13, Greenbrier, 43, IA, Attorney General, R, 1037, Daniel W.Greear, 472, 997, 47.34%
+13, Greenbrier, 43, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 495, 997, 49.65%
+13, Greenbrier, 43, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 502, 997, 50.35%
+13, Greenbrier, 43, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 450, 997, 45.14%
+13, Greenbrier, 43, KA, State Senate, R, 1054, Donald Thomas Caruth, 466, 997, 46.74%
+13, Greenbrier, 43, KA, State Senate, D, 1067, James Wilbur McNeely, 461, 997, 46.24%
+13, Greenbrier, 43, LA, House of Delegates, D, 1146, Thomas W. Campbell, 623, 997, 62.49%
+13, Greenbrier, 43, LA, House of Delegates, D, 1303, Joan Connie Browning, 347, 997, 34.80%
+13, Greenbrier, 43, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 584, 997, 58.58%
+13, Greenbrier, 43, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 517, 997, 51.86%
+13, Greenbrier, 43, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 623, 997, 62.49%
+13, Greenbrier, 43, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 434, 997, 43.53%
+13, Greenbrier, 43, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 350, 997, 35.11%
+13, Greenbrier, 43, NA, Family Court Judge, D, 1357, David Martin Sanders, 722, 997, 72.42%
+13, Greenbrier, 43, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 323, 997, 32.40%
+13, Greenbrier, 43, DA, Governor, M, 1416, Jesse C. Johnson Jr., 40, 997, 4.01%
+13, Greenbrier, 43, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 5, 997, 0.50%
+13, Greenbrier, 43, AA, U.S. President, U, 1427, Ralph Nader, 12, 997, 1.20%
+13, Greenbrier, 43, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 3, 997, 0.30%
+13, Greenbrier, 43, VO, Over Vote, , 901, Over Vote, 0, 997, 0.00%
+13, Greenbrier, 43, VU, Under Vote, , 902, Under Vote, 5544, 997, 556.07%
+13, Greenbrier, 43, WI, Write-In, , 999, Write-In Candidate, 12, 997, 1.20%
+13, Greenbrier, 43, 90, Straight Ticket, D, DEM, Democratic Party, 101, 997, 10.13%
+13, Greenbrier, 43, 90, Straight Ticket, M, MTN, Mountain Party, 3, 997, 0.30%
+13, Greenbrier, 43, 90, Straight Ticket, R, REP, Republican Party, 95, 997, 9.53%
+13, Greenbrier, 45, AA, U.S. President, D, 1003, Barack Hussein Obama, 339, 667, 50.82%
+13, Greenbrier, 45, AA, U.S. President, R, 1004, John Sidney McCain III, 293, 667, 43.93%
+13, Greenbrier, 45, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 433, 667, 64.92%
+13, Greenbrier, 45, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 196, 667, 29.39%
+13, Greenbrier, 45, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 432, 667, 64.77%
+13, Greenbrier, 45, DA, Governor, D, 1022, Joe Manchin III, 454, 667, 68.07%
+13, Greenbrier, 45, DA, Governor, R, 1024, Russell E. Weeks Jr, 151, 667, 22.64%
+13, Greenbrier, 45, EA, Secretary of State, D, 1027, Natalie Tennant, 403, 667, 60.42%
+13, Greenbrier, 45, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 193, 667, 28.94%
+13, Greenbrier, 45, FA, Auditor, D, 1029, Glen B. Gainer III, 493, 667, 73.91%
+13, Greenbrier, 45, GA, State Treasurer, D, 1030, John D. Perdue, 495, 667, 74.21%
+13, Greenbrier, 45, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 351, 667, 52.62%
+13, Greenbrier, 45, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 255, 667, 38.23%
+13, Greenbrier, 45, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 334, 667, 50.07%
+13, Greenbrier, 45, IA, Attorney General, R, 1037, Daniel W.Greear, 287, 667, 43.03%
+13, Greenbrier, 45, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 331, 667, 49.63%
+13, Greenbrier, 45, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 289, 667, 43.33%
+13, Greenbrier, 45, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 337, 667, 50.52%
+13, Greenbrier, 45, KA, State Senate, R, 1054, Donald Thomas Caruth, 289, 667, 43.33%
+13, Greenbrier, 45, KA, State Senate, D, 1067, James Wilbur McNeely, 308, 667, 46.18%
+13, Greenbrier, 45, LA, House of Delegates, D, 1146, Thomas W. Campbell, 442, 667, 66.27%
+13, Greenbrier, 45, LA, House of Delegates, D, 1303, Joan Connie Browning, 264, 667, 39.58%
+13, Greenbrier, 45, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 364, 667, 54.57%
+13, Greenbrier, 45, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 368, 667, 55.17%
+13, Greenbrier, 45, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 462, 667, 69.27%
+13, Greenbrier, 45, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 258, 667, 38.68%
+13, Greenbrier, 45, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 180, 667, 26.99%
+13, Greenbrier, 45, NA, Family Court Judge, D, 1357, David Martin Sanders, 453, 667, 67.92%
+13, Greenbrier, 45, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 188, 667, 28.19%
+13, Greenbrier, 45, DA, Governor, M, 1416, Jesse C. Johnson Jr., 37, 667, 5.55%
+13, Greenbrier, 45, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 1, 667, 0.15%
+13, Greenbrier, 45, AA, U.S. President, U, 1427, Ralph Nader, 5, 667, 0.75%
+13, Greenbrier, 45, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 1, 667, 0.15%
+13, Greenbrier, 45, VO, Over Vote, , 901, Over Vote, 0, 667, 0.00%
+13, Greenbrier, 45, VU, Under Vote, , 902, Under Vote, 3982, 667, 597.00%
+13, Greenbrier, 45, WI, Write-In, , 999, Write-In Candidate, 24, 667, 3.60%
+13, Greenbrier, 45, 90, Straight Ticket, D, DEM, Democratic Party, 75, 667, 11.24%
+13, Greenbrier, 45, 90, Straight Ticket, M, MTN, Mountain Party, 2, 667, 0.30%
+13, Greenbrier, 45, 90, Straight Ticket, R, REP, Republican Party, 46, 667, 6.90%
+13, Greenbrier, 46, AA, U.S. President, D, 1003, Barack Hussein Obama, 409, 922, 44.36%
+13, Greenbrier, 46, AA, U.S. President, R, 1004, John Sidney McCain III, 491, 922, 53.25%
+13, Greenbrier, 46, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 570, 922, 61.82%
+13, Greenbrier, 46, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 328, 922, 35.57%
+13, Greenbrier, 46, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 567, 922, 61.50%
+13, Greenbrier, 46, DA, Governor, D, 1022, Joe Manchin III, 614, 922, 66.59%
+13, Greenbrier, 46, DA, Governor, R, 1024, Russell E. Weeks Jr, 238, 922, 25.81%
+13, Greenbrier, 46, EA, Secretary of State, D, 1027, Natalie Tennant, 555, 922, 60.20%
+13, Greenbrier, 46, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 302, 922, 32.75%
+13, Greenbrier, 46, FA, Auditor, D, 1029, Glen B. Gainer III, 692, 922, 75.05%
+13, Greenbrier, 46, GA, State Treasurer, D, 1030, John D. Perdue, 692, 922, 75.05%
+13, Greenbrier, 46, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 453, 922, 49.13%
+13, Greenbrier, 46, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 405, 922, 43.93%
+13, Greenbrier, 46, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 428, 922, 46.42%
+13, Greenbrier, 46, IA, Attorney General, R, 1037, Daniel W.Greear, 445, 922, 48.26%
+13, Greenbrier, 46, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 451, 922, 48.92%
+13, Greenbrier, 46, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 479, 922, 51.95%
+13, Greenbrier, 46, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 422, 922, 45.77%
+13, Greenbrier, 46, KA, State Senate, R, 1054, Donald Thomas Caruth, 441, 922, 47.83%
+13, Greenbrier, 46, KA, State Senate, D, 1067, James Wilbur McNeely, 408, 922, 44.25%
+13, Greenbrier, 46, LA, House of Delegates, D, 1146, Thomas W. Campbell, 629, 922, 68.22%
+13, Greenbrier, 46, LA, House of Delegates, D, 1303, Joan Connie Browning, 347, 922, 37.64%
+13, Greenbrier, 46, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 501, 922, 54.34%
+13, Greenbrier, 46, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 520, 922, 56.40%
+13, Greenbrier, 46, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 625, 922, 67.79%
+13, Greenbrier, 46, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 365, 922, 39.59%
+13, Greenbrier, 46, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 272, 922, 29.50%
+13, Greenbrier, 46, NA, Family Court Judge, D, 1357, David Martin Sanders, 649, 922, 70.39%
+13, Greenbrier, 46, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 317, 922, 34.38%
+13, Greenbrier, 46, DA, Governor, M, 1416, Jesse C. Johnson Jr., 44, 922, 4.77%
+13, Greenbrier, 46, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 2, 922, 0.22%
+13, Greenbrier, 46, AA, U.S. President, U, 1427, Ralph Nader, 8, 922, 0.87%
+13, Greenbrier, 46, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 3, 922, 0.33%
+13, Greenbrier, 46, VO, Over Vote, , 901, Over Vote, 0, 922, 0.00%
+13, Greenbrier, 46, VU, Under Vote, , 902, Under Vote, 5274, 922, 572.02%
+13, Greenbrier, 46, WI, Write-In, , 999, Write-In Candidate, 15, 922, 1.63%
+13, Greenbrier, 46, 90, Straight Ticket, D, DEM, Democratic Party, 86, 922, 9.33%
+13, Greenbrier, 46, 90, Straight Ticket, M, MTN, Mountain Party, 0, 922, 0.00%
+13, Greenbrier, 46, 90, Straight Ticket, R, REP, Republican Party, 77, 922, 8.35%
+13, Greenbrier, 47, AA, U.S. President, D, 1003, Barack Hussein Obama, 180, 608, 29.61%
+13, Greenbrier, 47, AA, U.S. President, R, 1004, John Sidney McCain III, 390, 608, 64.14%
+13, Greenbrier, 47, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 294, 608, 48.36%
+13, Greenbrier, 47, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 282, 608, 46.38%
+13, Greenbrier, 47, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 311, 608, 51.15%
+13, Greenbrier, 47, DA, Governor, D, 1022, Joe Manchin III, 335, 608, 55.10%
+13, Greenbrier, 47, DA, Governor, R, 1024, Russell E. Weeks Jr, 235, 608, 38.65%
+13, Greenbrier, 47, EA, Secretary of State, D, 1027, Natalie Tennant, 297, 608, 48.85%
+13, Greenbrier, 47, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 246, 608, 40.46%
+13, Greenbrier, 47, FA, Auditor, D, 1029, Glen B. Gainer III, 415, 608, 68.26%
+13, Greenbrier, 47, GA, State Treasurer, D, 1030, John D. Perdue, 408, 608, 67.11%
+13, Greenbrier, 47, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 262, 608, 43.09%
+13, Greenbrier, 47, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 305, 608, 50.16%
+13, Greenbrier, 47, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 265, 608, 43.59%
+13, Greenbrier, 47, IA, Attorney General, R, 1037, Daniel W.Greear, 294, 608, 48.36%
+13, Greenbrier, 47, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 238, 608, 39.14%
+13, Greenbrier, 47, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 320, 608, 52.63%
+13, Greenbrier, 47, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 240, 608, 39.47%
+13, Greenbrier, 47, KA, State Senate, R, 1054, Donald Thomas Caruth, 281, 608, 46.22%
+13, Greenbrier, 47, KA, State Senate, D, 1067, James Wilbur McNeely, 263, 608, 43.26%
+13, Greenbrier, 47, LA, House of Delegates, D, 1146, Thomas W. Campbell, 329, 608, 54.11%
+13, Greenbrier, 47, LA, House of Delegates, D, 1303, Joan Connie Browning, 182, 608, 29.93%
+13, Greenbrier, 47, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 373, 608, 61.35%
+13, Greenbrier, 47, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 294, 608, 48.36%
+13, Greenbrier, 47, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 298, 608, 49.01%
+13, Greenbrier, 47, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 269, 608, 44.24%
+13, Greenbrier, 47, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 280, 608, 46.05%
+13, Greenbrier, 47, NA, Family Court Judge, D, 1357, David Martin Sanders, 390, 608, 64.14%
+13, Greenbrier, 47, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 262, 608, 43.09%
+13, Greenbrier, 47, DA, Governor, M, 1416, Jesse C. Johnson Jr., 24, 608, 3.95%
+13, Greenbrier, 47, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 4, 608, 0.66%
+13, Greenbrier, 47, AA, U.S. President, U, 1427, Ralph Nader, 12, 608, 1.97%
+13, Greenbrier, 47, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 3, 608, 0.49%
+13, Greenbrier, 47, VO, Over Vote, , 901, Over Vote, 0, 608, 0.00%
+13, Greenbrier, 47, VU, Under Vote, , 902, Under Vote, 4066, 608, 668.75%
+13, Greenbrier, 47, WI, Write-In, , 999, Write-In Candidate, 7, 608, 1.15%
+13, Greenbrier, 47, 90, Straight Ticket, D, DEM, Democratic Party, 57, 608, 9.38%
+13, Greenbrier, 47, 90, Straight Ticket, M, MTN, Mountain Party, 1, 608, 0.16%
+13, Greenbrier, 47, 90, Straight Ticket, R, REP, Republican Party, 76, 608, 12.50%
+13, Greenbrier, 50, AA, U.S. President, D, 1003, Barack Hussein Obama, 54, 123, 43.90%
+13, Greenbrier, 50, AA, U.S. President, R, 1004, John Sidney McCain III, 66, 123, 53.66%
+13, Greenbrier, 50, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 81, 123, 65.85%
+13, Greenbrier, 50, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 36, 123, 29.27%
+13, Greenbrier, 50, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 76, 123, 61.79%
+13, Greenbrier, 50, DA, Governor, D, 1022, Joe Manchin III, 79, 123, 64.23%
+13, Greenbrier, 50, DA, Governor, R, 1024, Russell E. Weeks Jr, 35, 123, 28.46%
+13, Greenbrier, 50, EA, Secretary of State, D, 1027, Natalie Tennant, 70, 123, 56.91%
+13, Greenbrier, 50, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 38, 123, 30.89%
+13, Greenbrier, 50, FA, Auditor, D, 1029, Glen B. Gainer III, 89, 123, 72.36%
+13, Greenbrier, 50, GA, State Treasurer, D, 1030, John D. Perdue, 89, 123, 72.36%
+13, Greenbrier, 50, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 76, 123, 61.79%
+13, Greenbrier, 50, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 41, 123, 33.33%
+13, Greenbrier, 50, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 76, 123, 61.79%
+13, Greenbrier, 50, IA, Attorney General, R, 1037, Daniel W.Greear, 42, 123, 34.15%
+13, Greenbrier, 50, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 63, 123, 51.22%
+13, Greenbrier, 50, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 48, 123, 39.02%
+13, Greenbrier, 50, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 53, 123, 43.09%
+13, Greenbrier, 50, KA, State Senate, R, 1054, Donald Thomas Caruth, 45, 123, 36.59%
+13, Greenbrier, 50, KA, State Senate, D, 1067, James Wilbur McNeely, 67, 123, 54.47%
+13, Greenbrier, 50, LA, House of Delegates, D, 1146, Thomas W. Campbell, 75, 123, 60.98%
+13, Greenbrier, 50, LA, House of Delegates, D, 1303, Joan Connie Browning, 48, 123, 39.02%
+13, Greenbrier, 50, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 55, 123, 44.72%
+13, Greenbrier, 50, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 64, 123, 52.03%
+13, Greenbrier, 50, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 70, 123, 56.91%
+13, Greenbrier, 50, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 52, 123, 42.28%
+13, Greenbrier, 50, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 45, 123, 36.59%
+13, Greenbrier, 50, NA, Family Court Judge, D, 1357, David Martin Sanders, 87, 123, 70.73%
+13, Greenbrier, 50, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 39, 123, 31.71%
+13, Greenbrier, 50, DA, Governor, M, 1416, Jesse C. Johnson Jr., 5, 123, 4.07%
+13, Greenbrier, 50, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 1, 123, 0.81%
+13, Greenbrier, 50, AA, U.S. President, U, 1427, Ralph Nader, 0, 123, 0.00%
+13, Greenbrier, 50, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 0, 123, 0.00%
+13, Greenbrier, 50, VO, Over Vote, , 901, Over Vote, 0, 123, 0.00%
+13, Greenbrier, 50, VU, Under Vote, , 902, Under Vote, 759, 123, 617.07%
+13, Greenbrier, 50, WI, Write-In, , 999, Write-In Candidate, 2, 123, 1.63%
+13, Greenbrier, 50, 90, Straight Ticket, D, DEM, Democratic Party, 21, 123, 17.07%
+13, Greenbrier, 50, 90, Straight Ticket, M, MTN, Mountain Party, 1, 123, 0.81%
+13, Greenbrier, 50, 90, Straight Ticket, R, REP, Republican Party, 16, 123, 13.01%
+13, Greenbrier, 51, AA, U.S. President, D, 1003, Barack Hussein Obama, 57, 154, 37.01%
+13, Greenbrier, 51, AA, U.S. President, R, 1004, John Sidney McCain III, 87, 154, 56.49%
+13, Greenbrier, 51, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 88, 154, 57.14%
+13, Greenbrier, 51, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 56, 154, 36.36%
+13, Greenbrier, 51, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 95, 154, 61.69%
+13, Greenbrier, 51, DA, Governor, D, 1022, Joe Manchin III, 106, 154, 68.83%
+13, Greenbrier, 51, DA, Governor, R, 1024, Russell E. Weeks Jr, 38, 154, 24.68%
+13, Greenbrier, 51, EA, Secretary of State, D, 1027, Natalie Tennant, 88, 154, 57.14%
+13, Greenbrier, 51, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 46, 154, 29.87%
+13, Greenbrier, 51, FA, Auditor, D, 1029, Glen B. Gainer III, 112, 154, 72.73%
+13, Greenbrier, 51, GA, State Treasurer, D, 1030, John D. Perdue, 108, 154, 70.13%
+13, Greenbrier, 51, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 93, 154, 60.39%
+13, Greenbrier, 51, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 50, 154, 32.47%
+13, Greenbrier, 51, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 80, 154, 51.95%
+13, Greenbrier, 51, IA, Attorney General, R, 1037, Daniel W.Greear, 61, 154, 39.61%
+13, Greenbrier, 51, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 89, 154, 57.79%
+13, Greenbrier, 51, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 68, 154, 44.16%
+13, Greenbrier, 51, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 67, 154, 43.51%
+13, Greenbrier, 51, KA, State Senate, R, 1054, Donald Thomas Caruth, 57, 154, 37.01%
+13, Greenbrier, 51, KA, State Senate, D, 1067, James Wilbur McNeely, 82, 154, 53.25%
+13, Greenbrier, 51, LA, House of Delegates, D, 1146, Thomas W. Campbell, 99, 154, 64.29%
+13, Greenbrier, 51, LA, House of Delegates, D, 1303, Joan Connie Browning, 64, 154, 41.56%
+13, Greenbrier, 51, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 74, 154, 48.05%
+13, Greenbrier, 51, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 85, 154, 55.19%
+13, Greenbrier, 51, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 83, 154, 53.90%
+13, Greenbrier, 51, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 62, 154, 40.26%
+13, Greenbrier, 51, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 66, 154, 42.86%
+13, Greenbrier, 51, NA, Family Court Judge, D, 1357, David Martin Sanders, 108, 154, 70.13%
+13, Greenbrier, 51, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 49, 154, 31.82%
+13, Greenbrier, 51, DA, Governor, M, 1416, Jesse C. Johnson Jr., 3, 154, 1.95%
+13, Greenbrier, 51, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 0, 154, 0.00%
+13, Greenbrier, 51, AA, U.S. President, U, 1427, Ralph Nader, 0, 154, 0.00%
+13, Greenbrier, 51, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 0, 154, 0.00%
+13, Greenbrier, 51, VO, Over Vote, , 901, Over Vote, 0, 154, 0.00%
+13, Greenbrier, 51, VU, Under Vote, , 902, Under Vote, 929, 154, 603.25%
+13, Greenbrier, 51, WI, Write-In, , 999, Write-In Candidate, 2, 154, 1.30%
+13, Greenbrier, 51, 90, Straight Ticket, D, DEM, Democratic Party, 28, 154, 18.18%
+13, Greenbrier, 51, 90, Straight Ticket, M, MTN, Mountain Party, 0, 154, 0.00%
+13, Greenbrier, 51, 90, Straight Ticket, R, REP, Republican Party, 18, 154, 11.69%
+13, Greenbrier, 52, AA, U.S. President, D, 1003, Barack Hussein Obama, 108, 340, 31.76%
+13, Greenbrier, 52, AA, U.S. President, R, 1004, John Sidney McCain III, 219, 340, 64.41%
+13, Greenbrier, 52, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 212, 340, 62.35%
+13, Greenbrier, 52, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 115, 340, 33.82%
+13, Greenbrier, 52, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 224, 340, 65.88%
+13, Greenbrier, 52, DA, Governor, D, 1022, Joe Manchin III, 230, 340, 67.65%
+13, Greenbrier, 52, DA, Governor, R, 1024, Russell E. Weeks Jr, 95, 340, 27.94%
+13, Greenbrier, 52, EA, Secretary of State, D, 1027, Natalie Tennant, 180, 340, 52.94%
+13, Greenbrier, 52, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 136, 340, 40.00%
+13, Greenbrier, 52, FA, Auditor, D, 1029, Glen B. Gainer III, 271, 340, 79.71%
+13, Greenbrier, 52, GA, State Treasurer, D, 1030, John D. Perdue, 267, 340, 78.53%
+13, Greenbrier, 52, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 184, 340, 54.12%
+13, Greenbrier, 52, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 139, 340, 40.88%
+13, Greenbrier, 52, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 157, 340, 46.18%
+13, Greenbrier, 52, IA, Attorney General, R, 1037, Daniel W.Greear, 167, 340, 49.12%
+13, Greenbrier, 52, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 162, 340, 47.65%
+13, Greenbrier, 52, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 161, 340, 47.35%
+13, Greenbrier, 52, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 167, 340, 49.12%
+13, Greenbrier, 52, KA, State Senate, R, 1054, Donald Thomas Caruth, 177, 340, 52.06%
+13, Greenbrier, 52, KA, State Senate, D, 1067, James Wilbur McNeely, 142, 340, 41.76%
+13, Greenbrier, 52, LA, House of Delegates, D, 1146, Thomas W. Campbell, 192, 340, 56.47%
+13, Greenbrier, 52, LA, House of Delegates, D, 1303, Joan Connie Browning, 133, 340, 39.12%
+13, Greenbrier, 52, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 180, 340, 52.94%
+13, Greenbrier, 52, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 171, 340, 50.29%
+13, Greenbrier, 52, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 174, 340, 51.18%
+13, Greenbrier, 52, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 152, 340, 44.71%
+13, Greenbrier, 52, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 152, 340, 44.71%
+13, Greenbrier, 52, NA, Family Court Judge, D, 1357, David Martin Sanders, 254, 340, 74.71%
+13, Greenbrier, 52, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 105, 340, 30.88%
+13, Greenbrier, 52, DA, Governor, M, 1416, Jesse C. Johnson Jr., 5, 340, 1.47%
+13, Greenbrier, 52, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 0, 340, 0.00%
+13, Greenbrier, 52, AA, U.S. President, U, 1427, Ralph Nader, 1, 340, 0.29%
+13, Greenbrier, 52, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 0, 340, 0.00%
+13, Greenbrier, 52, VO, Over Vote, , 901, Over Vote, 0, 340, 0.00%
+13, Greenbrier, 52, VU, Under Vote, , 902, Under Vote, 1895, 340, 557.35%
+13, Greenbrier, 52, WI, Write-In, , 999, Write-In Candidate, 13, 340, 3.82%
+13, Greenbrier, 52, 90, Straight Ticket, D, DEM, Democratic Party, 36, 340, 10.59%
+13, Greenbrier, 52, 90, Straight Ticket, M, MTN, Mountain Party, 2, 340, 0.59%
+13, Greenbrier, 52, 90, Straight Ticket, R, REP, Republican Party, 36, 340, 10.59%
+13, Greenbrier, 56, AA, U.S. President, D, 1003, Barack Hussein Obama, 155, 380, 40.79%
+13, Greenbrier, 56, AA, U.S. President, R, 1004, John Sidney McCain III, 192, 380, 50.53%
+13, Greenbrier, 56, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 260, 380, 68.42%
+13, Greenbrier, 56, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 103, 380, 27.11%
+13, Greenbrier, 56, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 248, 380, 65.26%
+13, Greenbrier, 56, DA, Governor, D, 1022, Joe Manchin III, 259, 380, 68.16%
+13, Greenbrier, 56, DA, Governor, R, 1024, Russell E. Weeks Jr, 95, 380, 25.00%
+13, Greenbrier, 56, EA, Secretary of State, D, 1027, Natalie Tennant, 258, 380, 67.89%
+13, Greenbrier, 56, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 92, 380, 24.21%
+13, Greenbrier, 56, FA, Auditor, D, 1029, Glen B. Gainer III, 284, 380, 74.74%
+13, Greenbrier, 56, GA, State Treasurer, D, 1030, John D. Perdue, 281, 380, 73.95%
+13, Greenbrier, 56, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 223, 380, 58.68%
+13, Greenbrier, 56, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 126, 380, 33.16%
+13, Greenbrier, 56, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 223, 380, 58.68%
+13, Greenbrier, 56, IA, Attorney General, R, 1037, Daniel W.Greear, 137, 380, 36.05%
+13, Greenbrier, 56, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 208, 380, 54.74%
+13, Greenbrier, 56, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 146, 380, 38.42%
+13, Greenbrier, 56, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 201, 380, 52.89%
+13, Greenbrier, 56, KA, State Senate, R, 1054, Donald Thomas Caruth, 146, 380, 38.42%
+13, Greenbrier, 56, KA, State Senate, D, 1067, James Wilbur McNeely, 206, 380, 54.21%
+13, Greenbrier, 56, LA, House of Delegates, D, 1146, Thomas W. Campbell, 249, 380, 65.53%
+13, Greenbrier, 56, LA, House of Delegates, D, 1303, Joan Connie Browning, 168, 380, 44.21%
+13, Greenbrier, 56, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 163, 380, 42.89%
+13, Greenbrier, 56, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 220, 380, 57.89%
+13, Greenbrier, 56, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 212, 380, 55.79%
+13, Greenbrier, 56, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 139, 380, 36.58%
+13, Greenbrier, 56, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 152, 380, 40.00%
+13, Greenbrier, 56, NA, Family Court Judge, D, 1357, David Martin Sanders, 273, 380, 71.84%
+13, Greenbrier, 56, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 107, 380, 28.16%
+13, Greenbrier, 56, DA, Governor, M, 1416, Jesse C. Johnson Jr., 16, 380, 4.21%
+13, Greenbrier, 56, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 1, 380, 0.26%
+13, Greenbrier, 56, AA, U.S. President, U, 1427, Ralph Nader, 7, 380, 1.84%
+13, Greenbrier, 56, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 1, 380, 0.26%
+13, Greenbrier, 56, VO, Over Vote, , 901, Over Vote, 0, 380, 0.00%
+13, Greenbrier, 56, VU, Under Vote, , 902, Under Vote, 2258, 380, 594.21%
+13, Greenbrier, 56, WI, Write-In, , 999, Write-In Candidate, 4, 380, 1.05%
+13, Greenbrier, 56, 90, Straight Ticket, D, DEM, Democratic Party, 76, 380, 20.00%
+13, Greenbrier, 56, 90, Straight Ticket, M, MTN, Mountain Party, 5, 380, 1.32%
+13, Greenbrier, 56, 90, Straight Ticket, R, REP, Republican Party, 34, 380, 8.95%
+13, Greenbrier, 63, AA, U.S. President, D, 1003, Barack Hussein Obama, 45, 146, 30.82%
+13, Greenbrier, 63, AA, U.S. President, R, 1004, John Sidney McCain III, 91, 146, 62.33%
+13, Greenbrier, 63, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 93, 146, 63.70%
+13, Greenbrier, 63, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 48, 146, 32.88%
+13, Greenbrier, 63, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 93, 146, 63.70%
+13, Greenbrier, 63, DA, Governor, D, 1022, Joe Manchin III, 105, 146, 71.92%
+13, Greenbrier, 63, DA, Governor, R, 1024, Russell E. Weeks Jr, 37, 146, 25.34%
+13, Greenbrier, 63, EA, Secretary of State, D, 1027, Natalie Tennant, 94, 146, 64.38%
+13, Greenbrier, 63, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 46, 146, 31.51%
+13, Greenbrier, 63, FA, Auditor, D, 1029, Glen B. Gainer III, 127, 146, 86.99%
+13, Greenbrier, 63, GA, State Treasurer, D, 1030, John D. Perdue, 125, 146, 85.62%
+13, Greenbrier, 63, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 85, 146, 58.22%
+13, Greenbrier, 63, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 56, 146, 38.36%
+13, Greenbrier, 63, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 75, 146, 51.37%
+13, Greenbrier, 63, IA, Attorney General, R, 1037, Daniel W.Greear, 66, 146, 45.21%
+13, Greenbrier, 63, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 81, 146, 55.48%
+13, Greenbrier, 63, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 60, 146, 41.10%
+13, Greenbrier, 63, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 77, 146, 52.74%
+13, Greenbrier, 63, KA, State Senate, R, 1054, Donald Thomas Caruth, 60, 146, 41.10%
+13, Greenbrier, 63, KA, State Senate, D, 1067, James Wilbur McNeely, 81, 146, 55.48%
+13, Greenbrier, 63, LA, House of Delegates, D, 1146, Thomas W. Campbell, 99, 146, 67.81%
+13, Greenbrier, 63, LA, House of Delegates, D, 1303, Joan Connie Browning, 54, 146, 36.99%
+13, Greenbrier, 63, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 66, 146, 45.21%
+13, Greenbrier, 63, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 94, 146, 64.38%
+13, Greenbrier, 63, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 81, 146, 55.48%
+13, Greenbrier, 63, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 45, 146, 30.82%
+13, Greenbrier, 63, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 59, 146, 40.41%
+13, Greenbrier, 63, NA, Family Court Judge, D, 1357, David Martin Sanders, 119, 146, 81.51%
+13, Greenbrier, 63, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 46, 146, 31.51%
+13, Greenbrier, 63, DA, Governor, M, 1416, Jesse C. Johnson Jr., 1, 146, 0.68%
+13, Greenbrier, 63, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 1, 146, 0.68%
+13, Greenbrier, 63, AA, U.S. President, U, 1427, Ralph Nader, 4, 146, 2.74%
+13, Greenbrier, 63, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 0, 146, 0.00%
+13, Greenbrier, 63, VO, Over Vote, , 901, Over Vote, 0, 146, 0.00%
+13, Greenbrier, 63, VU, Under Vote, , 902, Under Vote, 737, 146, 504.79%
+13, Greenbrier, 63, WI, Write-In, , 999, Write-In Candidate, 1, 146, 0.68%
+13, Greenbrier, 63, 90, Straight Ticket, D, DEM, Democratic Party, 21, 146, 14.38%
+13, Greenbrier, 63, 90, Straight Ticket, M, MTN, Mountain Party, 4, 146, 2.74%
+13, Greenbrier, 63, 90, Straight Ticket, R, REP, Republican Party, 11, 146, 7.53%
+13, Greenbrier, 64, AA, U.S. President, D, 1003, Barack Hussein Obama, 253, 656, 38.57%
+13, Greenbrier, 64, AA, U.S. President, R, 1004, John Sidney McCain III, 355, 656, 54.12%
+13, Greenbrier, 64, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 411, 656, 62.65%
+13, Greenbrier, 64, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 215, 656, 32.77%
+13, Greenbrier, 64, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 433, 656, 66.01%
+13, Greenbrier, 64, DA, Governor, D, 1022, Joe Manchin III, 443, 656, 67.53%
+13, Greenbrier, 64, DA, Governor, R, 1024, Russell E. Weeks Jr, 173, 656, 26.37%
+13, Greenbrier, 64, EA, Secretary of State, D, 1027, Natalie Tennant, 401, 656, 61.13%
+13, Greenbrier, 64, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 201, 656, 30.64%
+13, Greenbrier, 64, FA, Auditor, D, 1029, Glen B. Gainer III, 501, 656, 76.37%
+13, Greenbrier, 64, GA, State Treasurer, D, 1030, John D. Perdue, 505, 656, 76.98%
+13, Greenbrier, 64, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 372, 656, 56.71%
+13, Greenbrier, 64, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 238, 656, 36.28%
+13, Greenbrier, 64, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 342, 656, 52.13%
+13, Greenbrier, 64, IA, Attorney General, R, 1037, Daniel W.Greear, 274, 656, 41.77%
+13, Greenbrier, 64, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 335, 656, 51.07%
+13, Greenbrier, 64, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 289, 656, 44.05%
+13, Greenbrier, 64, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 328, 656, 50.00%
+13, Greenbrier, 64, KA, State Senate, R, 1054, Donald Thomas Caruth, 271, 656, 41.31%
+13, Greenbrier, 64, KA, State Senate, D, 1067, James Wilbur McNeely, 330, 656, 50.30%
+13, Greenbrier, 64, LA, House of Delegates, D, 1146, Thomas W. Campbell, 392, 656, 59.76%
+13, Greenbrier, 64, LA, House of Delegates, D, 1303, Joan Connie Browning, 289, 656, 44.05%
+13, Greenbrier, 64, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 320, 656, 48.78%
+13, Greenbrier, 64, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 380, 656, 57.93%
+13, Greenbrier, 64, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 335, 656, 51.07%
+13, Greenbrier, 64, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 245, 656, 37.35%
+13, Greenbrier, 64, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 290, 656, 44.21%
+13, Greenbrier, 64, NA, Family Court Judge, D, 1357, David Martin Sanders, 490, 656, 74.70%
+13, Greenbrier, 64, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 188, 656, 28.66%
+13, Greenbrier, 64, DA, Governor, M, 1416, Jesse C. Johnson Jr., 18, 656, 2.74%
+13, Greenbrier, 64, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 6, 656, 0.91%
+13, Greenbrier, 64, AA, U.S. President, U, 1427, Ralph Nader, 12, 656, 1.83%
+13, Greenbrier, 64, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 3, 656, 0.46%
+13, Greenbrier, 64, VO, Over Vote, , 901, Over Vote, 0, 656, 0.00%
+13, Greenbrier, 64, VU, Under Vote, , 902, Under Vote, 3784, 656, 576.83%
+13, Greenbrier, 64, WI, Write-In, , 999, Write-In Candidate, 10, 656, 1.52%
+13, Greenbrier, 64, 90, Straight Ticket, D, DEM, Democratic Party, 113, 656, 17.23%
+13, Greenbrier, 64, 90, Straight Ticket, M, MTN, Mountain Party, 6, 656, 0.91%
+13, Greenbrier, 64, 90, Straight Ticket, R, REP, Republican Party, 60, 656, 9.15%
+13, Greenbrier, 65, AA, U.S. President, D, 1003, Barack Hussein Obama, 257, 591, 43.49%
+13, Greenbrier, 65, AA, U.S. President, R, 1004, John Sidney McCain III, 311, 591, 52.62%
+13, Greenbrier, 65, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 395, 591, 66.84%
+13, Greenbrier, 65, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 174, 591, 29.44%
+13, Greenbrier, 65, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 395, 591, 66.84%
+13, Greenbrier, 65, DA, Governor, D, 1022, Joe Manchin III, 422, 591, 71.40%
+13, Greenbrier, 65, DA, Governor, R, 1024, Russell E. Weeks Jr, 145, 591, 24.53%
+13, Greenbrier, 65, EA, Secretary of State, D, 1027, Natalie Tennant, 365, 591, 61.76%
+13, Greenbrier, 65, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 169, 591, 28.60%
+13, Greenbrier, 65, FA, Auditor, D, 1029, Glen B. Gainer III, 446, 591, 75.47%
+13, Greenbrier, 65, GA, State Treasurer, D, 1030, John D. Perdue, 443, 591, 74.96%
+13, Greenbrier, 65, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 327, 591, 55.33%
+13, Greenbrier, 65, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 224, 591, 37.90%
+13, Greenbrier, 65, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 321, 591, 54.31%
+13, Greenbrier, 65, IA, Attorney General, R, 1037, Daniel W.Greear, 237, 591, 40.10%
+13, Greenbrier, 65, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 312, 591, 52.79%
+13, Greenbrier, 65, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 242, 591, 40.95%
+13, Greenbrier, 65, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 308, 591, 52.12%
+13, Greenbrier, 65, KA, State Senate, R, 1054, Donald Thomas Caruth, 253, 591, 42.81%
+13, Greenbrier, 65, KA, State Senate, D, 1067, James Wilbur McNeely, 287, 591, 48.56%
+13, Greenbrier, 65, LA, House of Delegates, D, 1146, Thomas W. Campbell, 368, 591, 62.27%
+13, Greenbrier, 65, LA, House of Delegates, D, 1303, Joan Connie Browning, 247, 591, 41.79%
+13, Greenbrier, 65, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 276, 591, 46.70%
+13, Greenbrier, 65, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 314, 591, 53.13%
+13, Greenbrier, 65, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 316, 591, 53.47%
+13, Greenbrier, 65, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 236, 591, 39.93%
+13, Greenbrier, 65, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 247, 591, 41.79%
+13, Greenbrier, 65, NA, Family Court Judge, D, 1357, David Martin Sanders, 438, 591, 74.11%
+13, Greenbrier, 65, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 168, 591, 28.43%
+13, Greenbrier, 65, DA, Governor, M, 1416, Jesse C. Johnson Jr., 9, 591, 1.52%
+13, Greenbrier, 65, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 1, 591, 0.17%
+13, Greenbrier, 65, AA, U.S. President, U, 1427, Ralph Nader, 3, 591, 0.51%
+13, Greenbrier, 65, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 2, 591, 0.34%
+13, Greenbrier, 65, VO, Over Vote, , 901, Over Vote, 0, 591, 0.00%
+13, Greenbrier, 65, VU, Under Vote, , 902, Under Vote, 3529, 591, 597.12%
+13, Greenbrier, 65, WI, Write-In, , 999, Write-In Candidate, 10, 591, 1.69%
+13, Greenbrier, 65, 90, Straight Ticket, D, DEM, Democratic Party, 87, 591, 14.72%
+13, Greenbrier, 65, 90, Straight Ticket, M, MTN, Mountain Party, 0, 591, 0.00%
+13, Greenbrier, 65, 90, Straight Ticket, R, REP, Republican Party, 53, 591, 8.97%
+13, Greenbrier, 7, AA, U.S. President, D, 1003, Barack Hussein Obama, 133, 331, 40.18%
+13, Greenbrier, 7, AA, U.S. President, R, 1004, John Sidney McCain III, 178, 331, 53.78%
+13, Greenbrier, 7, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 219, 331, 66.16%
+13, Greenbrier, 7, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 97, 331, 29.31%
+13, Greenbrier, 7, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 219, 331, 66.16%
+13, Greenbrier, 7, DA, Governor, D, 1022, Joe Manchin III, 238, 331, 71.90%
+13, Greenbrier, 7, DA, Governor, R, 1024, Russell E. Weeks Jr, 76, 331, 22.96%
+13, Greenbrier, 7, EA, Secretary of State, D, 1027, Natalie Tennant, 183, 331, 55.29%
+13, Greenbrier, 7, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 106, 331, 32.02%
+13, Greenbrier, 7, FA, Auditor, D, 1029, Glen B. Gainer III, 260, 331, 78.55%
+13, Greenbrier, 7, GA, State Treasurer, D, 1030, John D. Perdue, 260, 331, 78.55%
+13, Greenbrier, 7, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 162, 331, 48.94%
+13, Greenbrier, 7, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 150, 331, 45.32%
+13, Greenbrier, 7, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 172, 331, 51.96%
+13, Greenbrier, 7, IA, Attorney General, R, 1037, Daniel W.Greear, 139, 331, 41.99%
+13, Greenbrier, 7, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 159, 331, 48.04%
+13, Greenbrier, 7, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 147, 331, 44.41%
+13, Greenbrier, 7, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 160, 331, 48.34%
+13, Greenbrier, 7, KA, State Senate, R, 1054, Donald Thomas Caruth, 136, 331, 41.09%
+13, Greenbrier, 7, KA, State Senate, D, 1067, James Wilbur McNeely, 164, 331, 49.55%
+13, Greenbrier, 7, LA, House of Delegates, D, 1146, Thomas W. Campbell, 209, 331, 63.14%
+13, Greenbrier, 7, LA, House of Delegates, D, 1303, Joan Connie Browning, 106, 331, 32.02%
+13, Greenbrier, 7, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 188, 331, 56.80%
+13, Greenbrier, 7, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 170, 331, 51.36%
+13, Greenbrier, 7, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 208, 331, 62.84%
+13, Greenbrier, 7, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 146, 331, 44.11%
+13, Greenbrier, 7, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 114, 331, 34.44%
+13, Greenbrier, 7, NA, Family Court Judge, D, 1357, David Martin Sanders, 254, 331, 76.74%
+13, Greenbrier, 7, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 94, 331, 28.40%
+13, Greenbrier, 7, DA, Governor, M, 1416, Jesse C. Johnson Jr., 8, 331, 2.42%
+13, Greenbrier, 7, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 0, 331, 0.00%
+13, Greenbrier, 7, AA, U.S. President, U, 1427, Ralph Nader, 7, 331, 2.11%
+13, Greenbrier, 7, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 3, 331, 0.91%
+13, Greenbrier, 7, VO, Over Vote, , 901, Over Vote, 0, 331, 0.00%
+13, Greenbrier, 7, VU, Under Vote, , 902, Under Vote, 1870, 331, 564.95%
+13, Greenbrier, 7, WI, Write-In, , 999, Write-In Candidate, 1, 331, 0.30%
+13, Greenbrier, 7, 90, Straight Ticket, D, DEM, Democratic Party, 31, 331, 9.37%
+13, Greenbrier, 7, 90, Straight Ticket, M, MTN, Mountain Party, 0, 331, 0.00%
+13, Greenbrier, 7, 90, Straight Ticket, R, REP, Republican Party, 20, 331, 6.04%
+13, Greenbrier, 72, AA, U.S. President, D, 1003, Barack Hussein Obama, 224, 451, 49.67%
+13, Greenbrier, 72, AA, U.S. President, R, 1004, John Sidney McCain III, 204, 451, 45.23%
+13, Greenbrier, 72, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 298, 451, 66.08%
+13, Greenbrier, 72, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 132, 451, 29.27%
+13, Greenbrier, 72, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 295, 451, 65.41%
+13, Greenbrier, 72, DA, Governor, D, 1022, Joe Manchin III, 315, 451, 69.84%
+13, Greenbrier, 72, DA, Governor, R, 1024, Russell E. Weeks Jr, 93, 451, 20.62%
+13, Greenbrier, 72, EA, Secretary of State, D, 1027, Natalie Tennant, 264, 451, 58.54%
+13, Greenbrier, 72, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 130, 451, 28.82%
+13, Greenbrier, 72, FA, Auditor, D, 1029, Glen B. Gainer III, 335, 451, 74.28%
+13, Greenbrier, 72, GA, State Treasurer, D, 1030, John D. Perdue, 325, 451, 72.06%
+13, Greenbrier, 72, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 233, 451, 51.66%
+13, Greenbrier, 72, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 168, 451, 37.25%
+13, Greenbrier, 72, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 244, 451, 54.10%
+13, Greenbrier, 72, IA, Attorney General, R, 1037, Daniel W.Greear, 165, 451, 36.59%
+13, Greenbrier, 72, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 211, 451, 46.78%
+13, Greenbrier, 72, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 213, 451, 47.23%
+13, Greenbrier, 72, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 214, 451, 47.45%
+13, Greenbrier, 72, KA, State Senate, R, 1054, Donald Thomas Caruth, 191, 451, 42.35%
+13, Greenbrier, 72, KA, State Senate, D, 1067, James Wilbur McNeely, 210, 451, 46.56%
+13, Greenbrier, 72, LA, House of Delegates, D, 1146, Thomas W. Campbell, 278, 451, 61.64%
+13, Greenbrier, 72, LA, House of Delegates, D, 1303, Joan Connie Browning, 185, 451, 41.02%
+13, Greenbrier, 72, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 227, 451, 50.33%
+13, Greenbrier, 72, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 236, 451, 52.33%
+13, Greenbrier, 72, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 287, 451, 63.64%
+13, Greenbrier, 72, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 187, 451, 41.46%
+13, Greenbrier, 72, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 143, 451, 31.71%
+13, Greenbrier, 72, NA, Family Court Judge, D, 1357, David Martin Sanders, 329, 451, 72.95%
+13, Greenbrier, 72, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 127, 451, 28.16%
+13, Greenbrier, 72, DA, Governor, M, 1416, Jesse C. Johnson Jr., 23, 451, 5.10%
+13, Greenbrier, 72, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 0, 451, 0.00%
+13, Greenbrier, 72, AA, U.S. President, U, 1427, Ralph Nader, 4, 451, 0.89%
+13, Greenbrier, 72, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 1, 451, 0.22%
+13, Greenbrier, 72, VO, Over Vote, , 901, Over Vote, 0, 451, 0.00%
+13, Greenbrier, 72, VU, Under Vote, , 902, Under Vote, 2717, 451, 602.44%
+13, Greenbrier, 72, WI, Write-In, , 999, Write-In Candidate, 4, 451, 0.89%
+13, Greenbrier, 72, 90, Straight Ticket, D, DEM, Democratic Party, 80, 451, 17.74%
+13, Greenbrier, 72, 90, Straight Ticket, M, MTN, Mountain Party, 1, 451, 0.22%
+13, Greenbrier, 72, 90, Straight Ticket, R, REP, Republican Party, 39, 451, 8.65%
+13, Greenbrier, 73, AA, U.S. President, D, 1003, Barack Hussein Obama, 216, 414, 52.17%
+13, Greenbrier, 73, AA, U.S. President, R, 1004, John Sidney McCain III, 181, 414, 43.72%
+13, Greenbrier, 73, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 269, 414, 64.98%
+13, Greenbrier, 73, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 132, 414, 31.88%
+13, Greenbrier, 73, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 285, 414, 68.84%
+13, Greenbrier, 73, DA, Governor, D, 1022, Joe Manchin III, 312, 414, 75.36%
+13, Greenbrier, 73, DA, Governor, R, 1024, Russell E. Weeks Jr, 80, 414, 19.32%
+13, Greenbrier, 73, EA, Secretary of State, D, 1027, Natalie Tennant, 243, 414, 58.70%
+13, Greenbrier, 73, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 132, 414, 31.88%
+13, Greenbrier, 73, FA, Auditor, D, 1029, Glen B. Gainer III, 318, 414, 76.81%
+13, Greenbrier, 73, GA, State Treasurer, D, 1030, John D. Perdue, 315, 414, 76.09%
+13, Greenbrier, 73, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 240, 414, 57.97%
+13, Greenbrier, 73, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 141, 414, 34.06%
+13, Greenbrier, 73, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 241, 414, 58.21%
+13, Greenbrier, 73, IA, Attorney General, R, 1037, Daniel W.Greear, 149, 414, 35.99%
+13, Greenbrier, 73, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 230, 414, 55.56%
+13, Greenbrier, 73, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 172, 414, 41.55%
+13, Greenbrier, 73, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 198, 414, 47.83%
+13, Greenbrier, 73, KA, State Senate, R, 1054, Donald Thomas Caruth, 152, 414, 36.71%
+13, Greenbrier, 73, KA, State Senate, D, 1067, James Wilbur McNeely, 225, 414, 54.35%
+13, Greenbrier, 73, LA, House of Delegates, D, 1146, Thomas W. Campbell, 255, 414, 61.59%
+13, Greenbrier, 73, LA, House of Delegates, D, 1303, Joan Connie Browning, 190, 414, 45.89%
+13, Greenbrier, 73, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 192, 414, 46.38%
+13, Greenbrier, 73, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 229, 414, 55.31%
+13, Greenbrier, 73, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 245, 414, 59.18%
+13, Greenbrier, 73, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 156, 414, 37.68%
+13, Greenbrier, 73, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 149, 414, 35.99%
+13, Greenbrier, 73, NA, Family Court Judge, D, 1357, David Martin Sanders, 300, 414, 72.46%
+13, Greenbrier, 73, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 114, 414, 27.54%
+13, Greenbrier, 73, DA, Governor, M, 1416, Jesse C. Johnson Jr., 5, 414, 1.21%
+13, Greenbrier, 73, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 3, 414, 0.72%
+13, Greenbrier, 73, AA, U.S. President, U, 1427, Ralph Nader, 1, 414, 0.24%
+13, Greenbrier, 73, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 2, 414, 0.48%
+13, Greenbrier, 73, VO, Over Vote, , 901, Over Vote, 0, 414, 0.00%
+13, Greenbrier, 73, VU, Under Vote, , 902, Under Vote, 2366, 414, 571.50%
+13, Greenbrier, 73, WI, Write-In, , 999, Write-In Candidate, 9, 414, 2.17%
+13, Greenbrier, 73, 90, Straight Ticket, D, DEM, Democratic Party, 102, 414, 24.64%
+13, Greenbrier, 73, 90, Straight Ticket, M, MTN, Mountain Party, 0, 414, 0.00%
+13, Greenbrier, 73, 90, Straight Ticket, R, REP, Republican Party, 54, 414, 13.04%
+13, Greenbrier, 74, AA, U.S. President, D, 1003, Barack Hussein Obama, 125, 300, 41.67%
+13, Greenbrier, 74, AA, U.S. President, R, 1004, John Sidney McCain III, 151, 300, 50.33%
+13, Greenbrier, 74, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 205, 300, 68.33%
+13, Greenbrier, 74, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 84, 300, 28.00%
+13, Greenbrier, 74, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 197, 300, 65.67%
+13, Greenbrier, 74, DA, Governor, D, 1022, Joe Manchin III, 237, 300, 79.00%
+13, Greenbrier, 74, DA, Governor, R, 1024, Russell E. Weeks Jr, 47, 300, 15.67%
+13, Greenbrier, 74, EA, Secretary of State, D, 1027, Natalie Tennant, 181, 300, 60.33%
+13, Greenbrier, 74, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 82, 300, 27.33%
+13, Greenbrier, 74, FA, Auditor, D, 1029, Glen B. Gainer III, 234, 300, 78.00%
+13, Greenbrier, 74, GA, State Treasurer, D, 1030, John D. Perdue, 231, 300, 77.00%
+13, Greenbrier, 74, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 158, 300, 52.67%
+13, Greenbrier, 74, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 111, 300, 37.00%
+13, Greenbrier, 74, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 150, 300, 50.00%
+13, Greenbrier, 74, IA, Attorney General, R, 1037, Daniel W.Greear, 129, 300, 43.00%
+13, Greenbrier, 74, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 143, 300, 47.67%
+13, Greenbrier, 74, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 149, 300, 49.67%
+13, Greenbrier, 74, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 146, 300, 48.67%
+13, Greenbrier, 74, KA, State Senate, R, 1054, Donald Thomas Caruth, 126, 300, 42.00%
+13, Greenbrier, 74, KA, State Senate, D, 1067, James Wilbur McNeely, 148, 300, 49.33%
+13, Greenbrier, 74, LA, House of Delegates, D, 1146, Thomas W. Campbell, 191, 300, 63.67%
+13, Greenbrier, 74, LA, House of Delegates, D, 1303, Joan Connie Browning, 128, 300, 42.67%
+13, Greenbrier, 74, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 158, 300, 52.67%
+13, Greenbrier, 74, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 153, 300, 51.00%
+13, Greenbrier, 74, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 190, 300, 63.33%
+13, Greenbrier, 74, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 126, 300, 42.00%
+13, Greenbrier, 74, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 101, 300, 33.67%
+13, Greenbrier, 74, NA, Family Court Judge, D, 1357, David Martin Sanders, 223, 300, 74.33%
+13, Greenbrier, 74, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 87, 300, 29.00%
+13, Greenbrier, 74, DA, Governor, M, 1416, Jesse C. Johnson Jr., 10, 300, 3.33%
+13, Greenbrier, 74, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 4, 300, 1.33%
+13, Greenbrier, 74, AA, U.S. President, U, 1427, Ralph Nader, 6, 300, 2.00%
+13, Greenbrier, 74, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 1, 300, 0.33%
+13, Greenbrier, 74, VO, Over Vote, , 901, Over Vote, 0, 300, 0.00%
+13, Greenbrier, 74, VU, Under Vote, , 902, Under Vote, 1686, 300, 562.00%
+13, Greenbrier, 74, WI, Write-In, , 999, Write-In Candidate, 3, 300, 1.00%
+13, Greenbrier, 74, 90, Straight Ticket, D, DEM, Democratic Party, 42, 300, 14.00%
+13, Greenbrier, 74, 90, Straight Ticket, M, MTN, Mountain Party, 4, 300, 1.33%
+13, Greenbrier, 74, 90, Straight Ticket, R, REP, Republican Party, 23, 300, 7.67%
+13, Greenbrier, 75, AA, U.S. President, D, 1003, Barack Hussein Obama, 245, 600, 40.83%
+13, Greenbrier, 75, AA, U.S. President, R, 1004, John Sidney McCain III, 323, 600, 53.83%
+13, Greenbrier, 75, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 400, 600, 66.67%
+13, Greenbrier, 75, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 176, 600, 29.33%
+13, Greenbrier, 75, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 400, 600, 66.67%
+13, Greenbrier, 75, DA, Governor, D, 1022, Joe Manchin III, 438, 600, 73.00%
+13, Greenbrier, 75, DA, Governor, R, 1024, Russell E. Weeks Jr, 127, 600, 21.17%
+13, Greenbrier, 75, EA, Secretary of State, D, 1027, Natalie Tennant, 350, 600, 58.33%
+13, Greenbrier, 75, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 195, 600, 32.50%
+13, Greenbrier, 75, FA, Auditor, D, 1029, Glen B. Gainer III, 458, 600, 76.33%
+13, Greenbrier, 75, GA, State Treasurer, D, 1030, John D. Perdue, 457, 600, 76.17%
+13, Greenbrier, 75, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 340, 600, 56.67%
+13, Greenbrier, 75, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 212, 600, 35.33%
+13, Greenbrier, 75, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 343, 600, 57.17%
+13, Greenbrier, 75, IA, Attorney General, R, 1037, Daniel W.Greear, 218, 600, 36.33%
+13, Greenbrier, 75, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 292, 600, 48.67%
+13, Greenbrier, 75, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 280, 600, 46.67%
+13, Greenbrier, 75, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 292, 600, 48.67%
+13, Greenbrier, 75, KA, State Senate, R, 1054, Donald Thomas Caruth, 230, 600, 38.33%
+13, Greenbrier, 75, KA, State Senate, D, 1067, James Wilbur McNeely, 317, 600, 52.83%
+13, Greenbrier, 75, LA, House of Delegates, D, 1146, Thomas W. Campbell, 372, 600, 62.00%
+13, Greenbrier, 75, LA, House of Delegates, D, 1303, Joan Connie Browning, 249, 600, 41.50%
+13, Greenbrier, 75, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 313, 600, 52.17%
+13, Greenbrier, 75, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 301, 600, 50.17%
+13, Greenbrier, 75, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 342, 600, 57.00%
+13, Greenbrier, 75, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 265, 600, 44.17%
+13, Greenbrier, 75, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 235, 600, 39.17%
+13, Greenbrier, 75, NA, Family Court Judge, D, 1357, David Martin Sanders, 445, 600, 74.17%
+13, Greenbrier, 75, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 168, 600, 28.00%
+13, Greenbrier, 75, DA, Governor, M, 1416, Jesse C. Johnson Jr., 17, 600, 2.83%
+13, Greenbrier, 75, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 5, 600, 0.83%
+13, Greenbrier, 75, AA, U.S. President, U, 1427, Ralph Nader, 10, 600, 1.67%
+13, Greenbrier, 75, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 4, 600, 0.67%
+13, Greenbrier, 75, VO, Over Vote, , 901, Over Vote, 0, 600, 0.00%
+13, Greenbrier, 75, VU, Under Vote, , 902, Under Vote, 3406, 600, 567.67%
+13, Greenbrier, 75, WI, Write-In, , 999, Write-In Candidate, 30, 600, 5.00%
+13, Greenbrier, 75, 90, Straight Ticket, D, DEM, Democratic Party, 78, 600, 13.00%
+13, Greenbrier, 75, 90, Straight Ticket, M, MTN, Mountain Party, 2, 600, 0.33%
+13, Greenbrier, 75, 90, Straight Ticket, R, REP, Republican Party, 54, 600, 9.00%
+13, Greenbrier, 78, AA, U.S. President, D, 1003, Barack Hussein Obama, 50, 221, 22.62%
+13, Greenbrier, 78, AA, U.S. President, R, 1004, John Sidney McCain III, 153, 221, 69.23%
+13, Greenbrier, 78, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 104, 221, 47.06%
+13, Greenbrier, 78, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 104, 221, 47.06%
+13, Greenbrier, 78, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 139, 221, 62.90%
+13, Greenbrier, 78, DA, Governor, D, 1022, Joe Manchin III, 139, 221, 62.90%
+13, Greenbrier, 78, DA, Governor, R, 1024, Russell E. Weeks Jr, 61, 221, 27.60%
+13, Greenbrier, 78, EA, Secretary of State, D, 1027, Natalie Tennant, 103, 221, 46.61%
+13, Greenbrier, 78, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 91, 221, 41.18%
+13, Greenbrier, 78, FA, Auditor, D, 1029, Glen B. Gainer III, 162, 221, 73.30%
+13, Greenbrier, 78, GA, State Treasurer, D, 1030, John D. Perdue, 159, 221, 71.95%
+13, Greenbrier, 78, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 104, 221, 47.06%
+13, Greenbrier, 78, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 102, 221, 46.15%
+13, Greenbrier, 78, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 100, 221, 45.25%
+13, Greenbrier, 78, IA, Attorney General, R, 1037, Daniel W.Greear, 98, 221, 44.34%
+13, Greenbrier, 78, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 93, 221, 42.08%
+13, Greenbrier, 78, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 104, 221, 47.06%
+13, Greenbrier, 78, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 103, 221, 46.61%
+13, Greenbrier, 78, KA, State Senate, R, 1054, Donald Thomas Caruth, 105, 221, 47.51%
+13, Greenbrier, 78, KA, State Senate, D, 1067, James Wilbur McNeely, 90, 221, 40.72%
+13, Greenbrier, 78, LA, House of Delegates, D, 1146, Thomas W. Campbell, 127, 221, 57.47%
+13, Greenbrier, 78, LA, House of Delegates, D, 1303, Joan Connie Browning, 64, 221, 28.96%
+13, Greenbrier, 78, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 141, 221, 63.80%
+13, Greenbrier, 78, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 120, 221, 54.30%
+13, Greenbrier, 78, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 122, 221, 55.20%
+13, Greenbrier, 78, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 82, 221, 37.10%
+13, Greenbrier, 78, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 83, 221, 37.56%
+13, Greenbrier, 78, NA, Family Court Judge, D, 1357, David Martin Sanders, 142, 221, 64.25%
+13, Greenbrier, 78, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 68, 221, 30.77%
+13, Greenbrier, 78, DA, Governor, M, 1416, Jesse C. Johnson Jr., 7, 221, 3.17%
+13, Greenbrier, 78, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 0, 221, 0.00%
+13, Greenbrier, 78, AA, U.S. President, U, 1427, Ralph Nader, 7, 221, 3.17%
+13, Greenbrier, 78, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 3, 221, 1.36%
+13, Greenbrier, 78, VO, Over Vote, , 901, Over Vote, 0, 221, 0.00%
+13, Greenbrier, 78, VU, Under Vote, , 902, Under Vote, 1493, 221, 675.57%
+13, Greenbrier, 78, WI, Write-In, , 999, Write-In Candidate, 3, 221, 1.36%
+13, Greenbrier, 78, 90, Straight Ticket, D, DEM, Democratic Party, 21, 221, 9.50%
+13, Greenbrier, 78, 90, Straight Ticket, M, MTN, Mountain Party, 1, 221, 0.45%
+13, Greenbrier, 78, 90, Straight Ticket, R, REP, Republican Party, 11, 221, 4.98%
+13, Greenbrier, 79, AA, U.S. President, D, 1003, Barack Hussein Obama, 107, 285, 37.54%
+13, Greenbrier, 79, AA, U.S. President, R, 1004, John Sidney McCain III, 163, 285, 57.19%
+13, Greenbrier, 79, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 160, 285, 56.14%
+13, Greenbrier, 79, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 111, 285, 38.95%
+13, Greenbrier, 79, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 181, 285, 63.51%
+13, Greenbrier, 79, DA, Governor, D, 1022, Joe Manchin III, 158, 285, 55.44%
+13, Greenbrier, 79, DA, Governor, R, 1024, Russell E. Weeks Jr, 85, 285, 29.82%
+13, Greenbrier, 79, EA, Secretary of State, D, 1027, Natalie Tennant, 149, 285, 52.28%
+13, Greenbrier, 79, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 95, 285, 33.33%
+13, Greenbrier, 79, FA, Auditor, D, 1029, Glen B. Gainer III, 192, 285, 67.37%
+13, Greenbrier, 79, GA, State Treasurer, D, 1030, John D. Perdue, 195, 285, 68.42%
+13, Greenbrier, 79, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 147, 285, 51.58%
+13, Greenbrier, 79, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 119, 285, 41.75%
+13, Greenbrier, 79, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 146, 285, 51.23%
+13, Greenbrier, 79, IA, Attorney General, R, 1037, Daniel W.Greear, 110, 285, 38.60%
+13, Greenbrier, 79, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 119, 285, 41.75%
+13, Greenbrier, 79, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 138, 285, 48.42%
+13, Greenbrier, 79, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 105, 285, 36.84%
+13, Greenbrier, 79, KA, State Senate, R, 1054, Donald Thomas Caruth, 98, 285, 34.39%
+13, Greenbrier, 79, KA, State Senate, D, 1067, James Wilbur McNeely, 154, 285, 54.04%
+13, Greenbrier, 79, LA, House of Delegates, D, 1146, Thomas W. Campbell, 159, 285, 55.79%
+13, Greenbrier, 79, LA, House of Delegates, D, 1303, Joan Connie Browning, 99, 285, 34.74%
+13, Greenbrier, 79, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 172, 285, 60.35%
+13, Greenbrier, 79, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 143, 285, 50.18%
+13, Greenbrier, 79, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 175, 285, 61.40%
+13, Greenbrier, 79, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 130, 285, 45.61%
+13, Greenbrier, 79, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 94, 285, 32.98%
+13, Greenbrier, 79, NA, Family Court Judge, D, 1357, David Martin Sanders, 182, 285, 63.86%
+13, Greenbrier, 79, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 84, 285, 29.47%
+13, Greenbrier, 79, DA, Governor, M, 1416, Jesse C. Johnson Jr., 27, 285, 9.47%
+13, Greenbrier, 79, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 1, 285, 0.35%
+13, Greenbrier, 79, AA, U.S. President, U, 1427, Ralph Nader, 2, 285, 0.70%
+13, Greenbrier, 79, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 1, 285, 0.35%
+13, Greenbrier, 79, VO, Over Vote, , 901, Over Vote, 0, 285, 0.00%
+13, Greenbrier, 79, VU, Under Vote, , 902, Under Vote, 2003, 285, 702.81%
+13, Greenbrier, 79, WI, Write-In, , 999, Write-In Candidate, 2, 285, 0.70%
+13, Greenbrier, 79, 90, Straight Ticket, D, DEM, Democratic Party, 12, 285, 4.21%
+13, Greenbrier, 79, 90, Straight Ticket, M, MTN, Mountain Party, 1, 285, 0.35%
+13, Greenbrier, 79, 90, Straight Ticket, R, REP, Republican Party, 20, 285, 7.02%
+13, Greenbrier, 8, AA, U.S. President, D, 1003, Barack Hussein Obama, 283, 681, 41.56%
+13, Greenbrier, 8, AA, U.S. President, R, 1004, John Sidney McCain III, 375, 681, 55.07%
+13, Greenbrier, 8, BA, U.S. Senate, D, 1011, John Davison Rockefeller IV, 440, 681, 64.61%
+13, Greenbrier, 8, BA, U.S. Senate, R, 1013, Matthew Jay Wolfe, 226, 681, 33.19%
+13, Greenbrier, 8, CA, U.S. House of Representatives, D, 1019, Nick Joe Rahall II, 435, 681, 63.88%
+13, Greenbrier, 8, DA, Governor, D, 1022, Joe Manchin III, 472, 681, 69.31%
+13, Greenbrier, 8, DA, Governor, R, 1024, Russell E. Weeks Jr, 174, 681, 25.55%
+13, Greenbrier, 8, EA, Secretary of State, D, 1027, Natalie Tennant, 415, 681, 60.94%
+13, Greenbrier, 8, EA, Secretary of State, R, 1028, Charles Theophilus Minimah, 210, 681, 30.84%
+13, Greenbrier, 8, FA, Auditor, D, 1029, Glen B. Gainer III, 534, 681, 78.41%
+13, Greenbrier, 8, GA, State Treasurer, D, 1030, John D. Perdue, 536, 681, 78.71%
+13, Greenbrier, 8, HA, Commissioner of Agriculture, D, 1031, Gus R. Douglass, 322, 681, 47.28%
+13, Greenbrier, 8, HA, Commissioner of Agriculture, R, 1034, James Michael Teets, 331, 681, 48.60%
+13, Greenbrier, 8, IA, Attorney General, D, 1035, Darrell V. McGraw Jr., 331, 681, 48.60%
+13, Greenbrier, 8, IA, Attorney General, R, 1037, Daniel W.Greear, 322, 681, 47.28%
+13, Greenbrier, 8, JA, Justice of the Supreme Court of Appeals, D, 1040, Margaret Lee Workman, 342, 681, 50.22%
+13, Greenbrier, 8, JA, Justice of the Supreme Court of Appeals, R, 1041, Elizabeth D. Walker, 318, 681, 46.70%
+13, Greenbrier, 8, JA, Justice of the Supreme Court of Appeals, D, 1042, Menis E. Ketchum, 335, 681, 49.19%
+13, Greenbrier, 8, KA, State Senate, R, 1054, Donald Thomas Caruth, 286, 681, 42.00%
+13, Greenbrier, 8, KA, State Senate, D, 1067, James Wilbur McNeely, 348, 681, 51.10%
+13, Greenbrier, 8, LA, House of Delegates, D, 1146, Thomas W. Campbell, 405, 681, 59.47%
+13, Greenbrier, 8, LA, House of Delegates, D, 1303, Joan Connie Browning, 274, 681, 40.23%
+13, Greenbrier, 8, LA, House of Delegates, R, 1304, Denny Ray Canterbury Jr., 388, 681, 56.98%
+13, Greenbrier, 8, MA, Circuit Judge, D, 1316, Joseph C. Pomponio Jr., 334, 681, 49.05%
+13, Greenbrier, 8, MA, Circuit Judge, D, 1344, James Jefferson Rowe, 429, 681, 63.00%
+13, Greenbrier, 8, MA, Circuit Judge, R, 1347, Jesse O'Dell Guills Jr., 316, 681, 46.40%
+13, Greenbrier, 8, MA, Circuit Judge, R, 1351, Barry Lee Bruce, 231, 681, 33.92%
+13, Greenbrier, 8, NA, Family Court Judge, D, 1357, David Martin Sanders, 522, 681, 76.65%
+13, Greenbrier, 8, CA, U.S. House of Representatives, R, 1412, Gary Martin Gearheart, 223, 681, 32.75%
+13, Greenbrier, 8, DA, Governor, M, 1416, Jesse C. Johnson Jr., 22, 681, 3.23%
+13, Greenbrier, 8, AA, U.S. President, M, 1425, Cynthia Ann McKinney, 3, 681, 0.44%
+13, Greenbrier, 8, AA, U.S. President, U, 1427, Ralph Nader, 8, 681, 1.17%
+13, Greenbrier, 8, AA, U.S. President, C, 1428, Charles Obadiah Baldwin, 2, 681, 0.29%
+13, Greenbrier, 8, VO, Over Vote, , 901, Over Vote, 0, 681, 0.00%
+13, Greenbrier, 8, VU, Under Vote, , 902, Under Vote, 3568, 681, 523.94%
+13, Greenbrier, 8, WI, Write-In, , 999, Write-In Candidate, 9, 681, 1.32%
+13, Greenbrier, 8, 90, Straight Ticket, D, DEM, Democratic Party, 95, 681, 13.95%
+13, Greenbrier, 8, 90, Straight Ticket, M, MTN, Mountain Party, 1, 681, 0.15%
+13, Greenbrier, 8, 90, Straight Ticket, R, REP, Republican Party, 50, 681, 7.34%
