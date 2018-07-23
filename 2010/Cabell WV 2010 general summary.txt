@@ -1,0 +1,137 @@
+
+<HTML>
+<PRE>
+SUMMARY REPORT        Cabell County, WV                Results After Canvass
+Run Date:11/08/10     General Election
+RUN TIME:02:52 PM     November 2, 2010
+
+                                                       VOTES PERCENT
+
+           PRECINCTS COUNTED (OF 72) .  .  .  .  .        72  100.00
+           REGISTERED VOTERS - TOTAL .  .  .  .  .    59,519
+           BALLOTS CAST - TOTAL.  .  .  .  .  .  .    26,250
+           VOTER TURNOUT - TOTAL  .  .  .  .  .  .             44.10
+
+          STRAIGHT PARTY TICKET
+          (Vote For Not More Than )  1
+              (WITH 72 OF 72 PRECINCTS COUNTED)
+           DEMOCRATIC PARTY (DEM) .  .  .  .  .  .     5,184   54.96
+           REPUBLICAN PARTY (REP) .  .  .  .  .  .     4,135   43.84
+           MOUNTAIN PARTY (MTN).  .  .  .  .  .  .       114    1.21
+
+          U.S. SENATOR - (Unexpired Term)
+          (Vote For Not More Than )  1
+              (WITH 72 OF 72 PRECINCTS COUNTED)
+           JOE MANCHIN III (DEM)  .  .  .  .  .  .    14,639   57.81
+           JOHN R. RAESE (REP) .  .  .  .  .  .  .    10,099   39.88
+           JESSE JOHNSON (MTN) .  .  .  .  .  .  .       401    1.58
+           JEFF BECKER (CON).  .  .  .  .  .  .  .       165     .65
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .        17     .07
+
+          U.S. HOUSE OF REPRESENTATIVES -
+          3rd Congressional District
+          (Vote For Not More Than )  1
+              (WITH 72 OF 72 PRECINCTS COUNTED)
+           NICK JOE RAHALL, II (DEM) .  .  .  .  .    13,725   55.20
+           ELLIOTT E. "Spike" MAYNARD (REP).  .  .    11,079   44.56
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .        60     .24
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+
+          JUSTICE OF THE SUPREME COURT OF APPEALS -
+          (Unexpired Term)
+          (Vote For Not More Than )  1
+              (WITH 72 OF 72 PRECINCTS COUNTED)
+           THOMAS E. McHUGH (DEM) .  .  .  .  .  .    12,309   54.38
+           JOHN YODER (REP) .  .  .  .  .  .  .  .    10,309   45.55
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .        16     .07
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+
+          STATE SENATOR
+          5th Senatorial District
+          (Vote For Not More Than )  1
+              (WITH 72 OF 72 PRECINCTS COUNTED)
+           EVAN H. JENKINS (DEM)  .  .  .  .  .  .    18,210   99.52
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .        87     .48
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+
+          MEMBER OF HOUSE OF DELEGATES -
+          15th Delegate District
+          (Vote For Not More Than )  3
+              (WITH 38 OF 38 PRECINCTS COUNTED)
+           KEVIN J. CRAIG (DEM).  .  .  .  .  .  .     6,367   20.50
+           CAROL MILLER (REP)  .  .  .  .  .  .  .     6,139   19.77
+           JIM MORGAN (DEM) .  .  .  .  .  .  .  .     5,714   18.40
+           MATTHEW JAMES WOELFEL (DEM)  .  .  .  .     5,502   17.72
+           PATRICK LUCAS (REP) .  .  .  .  .  .  .     4,091   13.17
+           DOUGLAS W. FRANKLIN (REP) .  .  .  .  .     3,211   10.34
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .        30     .10
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+
+          MEMBER OF HOUSE OF DELEGATES -
+          16th Delegate District
+          (Vote For Not More Than )  3
+              (WITH 34 OF 34 PRECINCTS COUNTED)
+           KELLI SOBONYA (REP) .  .  .  .  .  .  .     9,034   29.97
+           DOUG REYNOLDS (DEM) .  .  .  .  .  .  .     7,811   25.91
+           DALE STEPHENS (DEM) .  .  .  .  .  .  .     7,066   23.44
+           T-ANNE SEE (REP) .  .  .  .  .  .  .  .     6,067   20.13
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .       165     .55
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+
+          HUNT PARK & RECREATION DISTRICT- (Full Term)
+          (Vote For Not More Than )  4
+              (WITH 72 OF 72 PRECINCTS COUNTED)
+           JIM CUMMINGS (REP)  .  .  .  .  .  .  .    13,418   26.98
+           GARY BUNN (REP)  .  .  .  .  .  .  .  .    12,660   25.45
+           DON McCROSKEY (DEM) .  .  .  .  .  .  .    11,942   24.01
+           STACY WEHRLE (DEM)  .  .  .  .  .  .  .    11,646   23.42
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .        71     .14
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+
+          HUNT PARK & RECREATION DIST - (Unexpired Term)
+          (Vote For Not More Than )  1
+              (WITH 72 OF 72 PRECINCTS COUNTED)
+           GORDON D. JONES (N/A)  .  .  .  .  .  .     7,119   99.32
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .        49     .68
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+
+          CIRCUIT CLERK
+          (Vote For Not More Than )  1
+              (WITH 72 OF 72 PRECINCTS COUNTED)
+           ADELL CHANDLER (DEM).  .  .  .  .  .  .    16,747   99.77
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .        38     .23
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+
+          COUNTY COMMISSIONER
+          (Vote For Not More Than )  1
+              (WITH 72 OF 72 PRECINCTS COUNTED)
+           ANNE M. YON (REP).  .  .  .  .  .  .  .    12,938   52.79
+           SCOTT BIAS (DEM) .  .  .  .  .  .  .  .    11,563   47.18
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .         9     .04
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+
+          COUNTY CLERK
+          (Vote For Not More Than )  1
+              (WITH 72 OF 72 PRECINCTS COUNTED)
+           KAREN COLE (DEM) .  .  .  .  .  .  .  .    17,826   99.78
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .        39     .22
+           NO CANDIDATES(S) NOMINATED.  .  .  .  .         0
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+
+          MAGISTRATE - (Unexpired Term)
+          (Vote For Not More Than )  1
+              (WITH 72 OF 72 PRECINCTS COUNTED)
+           DAN GOHEEN (DEM) .  .  .  .  .  .  .  .    13,121   55.37
+           PAUL HARVEY (REP).  .  .  .  .  .  .  .    10,560   44.57
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .        14     .06
+           NO CANDIDATE(S) NOMINATED .  .  .  .  .         0
+</HTML>
+</PRE>
